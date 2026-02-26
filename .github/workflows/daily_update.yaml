@@ -1,0 +1,32 @@
+name: Daily Data Scraper
+
+on:
+  schedule: 
+    - '0 0 * * *' # Runs every day at midnight
+  workflow_dispatch: # allows you ti run it manually for testing
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 # Add any other libraires needed here
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "githun-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Automate data update" || exit 0
+          git push 
+
+          
