@@ -21,6 +21,9 @@ jobs:
         run: |
           pip install requests beautifulsoup4 # Add any other libraires needed here
 
+      - name: Run Scraper
+        run: python scraper.py
+
       - name: Commit and push changes
         run: |
           git config --global user.name "githun-actions[bot]"
@@ -29,4 +32,3 @@ jobs:
           git commit -m "Automate data update" || exit 0
           git push 
 
-          
