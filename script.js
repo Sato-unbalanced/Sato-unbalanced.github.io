@@ -26,7 +26,7 @@ async function loadScrapedData() {
 
     } catch (error) {
         console.error('Error fetching data:, error');
-        container.innerHTML = '<p style="color: red;">Error: ${error.message}</p>'
+        container.innerHTML = `<p style="color: red;">Error: ${error.message}</p>`
     }
 
 }   
