@@ -27,6 +27,7 @@ def scrape_data():
         description = "N/A"
         link = "N/A"
     return {
+        "date": datetime.now().strftime("%Y-%m-%d"),
         "title" : title_value,
         "description" : description,
         "link" : link 
@@ -44,10 +45,10 @@ def update_jason(new_entry):
     else:
         data = []
 
-    # Backend check: Prevent duplicate dates
-    if not any(item['data'] == new_entry['data'] for item in data):
+   # Backend check: Prevent duplicate dates
+    if not any(item['date'] == new_entry['date'] for item in data):
         data.append(new_entry)
-
+        
         # Keep only the last 30 days to save space
         data = data[-30:]
 
