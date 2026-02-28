@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 def scrape_data():
-    url = "www.nasa.org"
+    url = "https://www.nasa.gov"
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
