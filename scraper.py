@@ -13,12 +13,12 @@ def scrape_data():
     value = soup.find('div', class_='hds-image-of-the-day')
     if value:
         outer_container = value.find('div', class_='grid-container')
-        second_outer_contaier = outer_container.find('div', class_="grid-row")
-        inner_container = second_outer_contaier.find('div', class_="grid-col-12")
+        second_outer_container = outer_container.find('div', class_="grid-row")
+        inner_container = second_outer_container.find('div', class_="grid-col-12")
         title = inner_container.find("p")
         title_value = title.text.strip()
         description = title.find_next_sibling("p").text.strip()
-        outer_image_contianer = inner_container.find_next_sibiling('div', class_="grid-col-12") 
+        outer_image_contianer = inner_container.find_next_sibling('div', class_="grid-col-12") 
         inner_image_container = outer_container.find('div', class_="hds-image-download-wrapper")
         link = inner_container.find('a')["href"]
         
