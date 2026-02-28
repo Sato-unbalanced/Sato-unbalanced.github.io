@@ -13,7 +13,7 @@ def scrape_data():
     value = soup.find('div', class_='hds-image-of-the-day')
     if value:
         outer_container = value.find('div', class_='grid-container')
-        second_outer_contaier = outer_container.find('div', class_="grid_row")
+        second_outer_contaier = outer_container.find('div', class_="grid-row")
         inner_container = second_outer_contaier.find('div', class_="grid-col-12")
         title = inner_container.find("p")
         title_value = title.text.strip()
