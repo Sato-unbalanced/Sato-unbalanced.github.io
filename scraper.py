@@ -19,8 +19,8 @@ def scrape_data():
         title_value = title.text.strip()
         description = title.find_next_sibling("p").text.strip()
         outer_image_contianer = inner_container.find_next_sibling('div', class_="grid-col-12") 
-        inner_image_container = outer_container.find('div', class_="hds-image-download-wrapper")
-        link = inner_container.find('a')["href"]
+        inner_image_container = outer_image_contianer.find('div', class_="hds-image-download-wrapper")
+        link = inner_image_container.find('a')["href"]
         
     else:
         title_value = "N/A"
