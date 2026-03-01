@@ -19,7 +19,7 @@ async function loadScrapedData() {
             row.innerHTML = `
                 <p>${element.title}</p>
                 <p>${element.description}</p>
-                <img src=${element.link} alt="image of the day" style="max-height: 2rem; max-width: 2rem; width:auto; height: auto;">
+                <img src=${element.link} alt="image of the day" style="max-height: 500px; max-width: 500px; width:auto; height: auto;">
             `;
             container.appendChild(row);
         });
