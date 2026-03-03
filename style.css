@@ -166,7 +166,7 @@ main {
 .field-row:last-child { border-bottom: none; }
 
 .field-key {
-  width: 200px; flex-shrink: 0;
+  width: 160px; flex-shrink: 0;
   padding: 1.05rem 1rem;
   font-family: 'IBM Plex Mono', monospace; font-size: 0.62rem;
   letter-spacing: 0.15em; text-transform: uppercase; color: var(--muted2);
