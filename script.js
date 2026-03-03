@@ -19,25 +19,25 @@ async function loadScrapedData() {
             const card_bar = document.createElement('div');
             card_bar.className = "card-bar";
             card_bar.innerHTML = `
-                <div class="card-bar-left"${element.title}</div>
-                <div class="card-bar-right"${element.date}</div>
+                <div class="card-bar-left>"${element.title}</div>
+                <div class="card-bar-right>"${element.date}</div>
             `;
             row.appendChild(card_bar);
             const card_body = document.createElement('div');
-            card_body.className = "card-body"
+            card_body.className = "card-body";
             card_body.innerHTML = `
-                <div class="feild-row">
-                    <div class="feild-key">Description</div>
-                    <div class="feild-val"><p>${element.description}</p></div>
+                <div class="field-row">
+                    <div class="field-key">Description</div>
+                    <div class="field-val"><p>${element.description}</p></div>
                 </div>
-                <div class="feild-row">
-                    <div class="feild-key">Image</div>
-                    <div class="feild-val">
+                <div class="field-row">
+                    <div class="field-key">Image</div>
+                    <div class="field-val">
                         <img src=${element.link} alt="image of the day" style="max-height: 500px; max-width: 500px; width:auto; height: auto;">
                     </div>
                 </div>
             `;
-            row.appendChild(card_body);
+            card_bar.appendChild(card_body);
             container.appendChild(row);
         });
 
