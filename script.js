@@ -15,7 +15,8 @@ async function loadScrapedData() {
 
         stats.reverse().forEach(element => {
             const row = document.createElement('div');
-            row.className = "data-row";
+            row.className = "result-card";
+            
             row.innerHTML = `
                 <p>${element.title}</p>
                 <p>${element.description}</p>
