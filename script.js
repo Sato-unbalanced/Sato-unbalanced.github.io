@@ -19,10 +19,9 @@ async function loadScrapedData() {
             const card_bar = document.createElement('div');
             card_bar.className = "card-bar";
             card_bar.innerHTML = `
-                <div class="card-bar-left>"${element.title}</div>
-                <div class="card-bar-right>"${element.date}</div>
+                <div class="card-bar-left">${element.title}</div>
+                <div class="card-bar-right">${element.date}</div>
             `;
-            row.appendChild(card_bar);
             const card_body = document.createElement('div');
             card_body.className = "card-body";
             card_body.innerHTML = `
@@ -37,7 +36,8 @@ async function loadScrapedData() {
                     </div>
                 </div>
             `;
-            card_bar.appendChild(card_body);
+            row.appendChild(card_bar);
+            row.appendChild(card_body);
             container.appendChild(row);
         });
 
