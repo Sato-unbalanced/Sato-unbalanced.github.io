@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-01",
-        "title": "Harnessing the Sun to Extract Oxygen on the Moon",
-        "description": "The Carbothermal Reduction Demonstration (CaRD) project aims to demonstrate the carbothermal reduction of lunar regolith to produce oxygen on the Moon\u2019s South Pole. For this test, the team integrated the solar concentrator, mirrors, and software and confirmed the production of carbon monoxide.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/02/jsc2025e075711orig.jpg"
-    },
-    {
         "date": "2026-03-02",
         "title": "Harnessing the Sun to Extract Oxygen on the Moon",
         "description": "The Carbothermal Reduction Demonstration (CaRD) project aims to demonstrate the carbothermal reduction of lunar regolith to produce oxygen on the Moon\u2019s South Pole. For this test, the team integrated the solar concentrator, mirrors, and software and confirmed the production of carbon monoxide.",
@@ -178,5 +172,11 @@
         "title": "Artemis II Crew\u2019s Suits",
         "description": "The Orion Crew Survival System suits that Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, and Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency) will wear on the Artemis II test flight are seen in the suit-up room of the Neil A. Armstrong Operations and Checkout Building, Saturday, Jan. 17, 2026, at NASA\u2019s Kennedy Space Center in Florida.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/02/nhq202601170114orig.jpg"
+    },
+    {
+        "date": "2026-03-31",
+        "title": "Sendoff for Artemis II Crew",
+        "description": "From left to right, NASA astronauts Andre Douglas, Victor Glover, and Christina Koch, CSA (Canadian Space Agency) astronauts Jenni Gibbons, NASA astronaut Reid Wiseman, and CSA astronaut Jeremy Hansen pose for a photo before the Artemis II crew proceed to a media event on March 27, 2026.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/jsc2026e017251.jpg"
     }
 ]
