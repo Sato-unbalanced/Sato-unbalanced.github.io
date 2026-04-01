@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-02",
-        "title": "Harnessing the Sun to Extract Oxygen on the Moon",
-        "description": "The Carbothermal Reduction Demonstration (CaRD) project aims to demonstrate the carbothermal reduction of lunar regolith to produce oxygen on the Moon\u2019s South Pole. For this test, the team integrated the solar concentrator, mirrors, and software and confirmed the production of carbon monoxide.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/02/jsc2025e075711orig.jpg"
-    },
-    {
         "date": "2026-03-03",
         "title": "Sunglint on Atlantic Ocean",
         "description": "The sun\u2019s glint beams off a partly cloudy Atlantic Ocean just after sunrise as the International Space Station orbited 263 miles above.",
@@ -178,5 +172,11 @@
         "title": "Sendoff for Artemis II Crew",
         "description": "From left to right, NASA astronauts Andre Douglas, Victor Glover, and Christina Koch, CSA (Canadian Space Agency) astronauts Jenni Gibbons, NASA astronaut Reid Wiseman, and CSA astronaut Jeremy Hansen pose for a photo before the Artemis II crew proceed to a media event on March 27, 2026.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/03/jsc2026e017251.jpg"
+    },
+    {
+        "date": "2026-04-01",
+        "title": "Godspeed, Artemis II!",
+        "description": "NASA astronaut Jessica Meir shared this photo of an Artemis program patch floating in the International Space Station\u2019s cupola on X.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/her1pqpbeaazfzl.jpg"
     }
 ]
