@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-05",
-        "title": "Blowing Stellar Bubbles",
-        "description": "For the first time, a much younger version of the Sun has been caught red-handed blowing bubbles in the galaxy, by astronomers using NASA\u2019s Chandra X-ray Observatory.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/astrosphere-xray-infrared.webp"
-    },
-    {
         "date": "2026-03-06",
         "title": "Total Lunar Eclipse",
         "description": "A total lunar eclipse rises over New Orleans, home of NASA\u2019s Michoud Assembly Facility, in the early morning hours of Tuesday, March 3. A lunar eclipse occurs when Earth passes directly between the Sun and Moon, casting a huge shadow across the Moon\u2019s surface. The Moon appears dark red or orange as the Sun\u2019s light filters through Earth\u2019s atmosphere.",
@@ -178,5 +172,11 @@
         "title": "Artemis II Astronauts Launch to Moon",
         "description": "NASA\u2019s Space Launch System rocket carrying the Orion spacecraft with NASA astronauts Reid Wiseman, commander; Victor Glover, pilot; Christina Koch, mission specialist; and CSA (Canadian Space Agency) astronaut Jeremy Hansen, mission specialist onboard launches on the Artemis II mission, Wednesday, April 1, 2026, from Launch Complex 39B at NASA\u2019s Kennedy Space Center in Florida.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/55182924516-9d78d1e3ef-o.jpg"
+    },
+    {
+        "date": "2026-04-04",
+        "title": "Hello, World",
+        "description": "NASA astronaut and Artemis II Commander Reid Wiseman took this picture of Earth from the Orion spacecraft\u2019s window on April 2, 2026, after completing the translunar injection burn.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e000192.jpg"
     }
 ]
