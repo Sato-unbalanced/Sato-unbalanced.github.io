@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-06",
-        "title": "Total Lunar Eclipse",
-        "description": "A total lunar eclipse rises over New Orleans, home of NASA\u2019s Michoud Assembly Facility, in the early morning hours of Tuesday, March 3. A lunar eclipse occurs when Earth passes directly between the Sun and Moon, casting a huge shadow across the Moon\u2019s surface. The Moon appears dark red or orange as the Sun\u2019s light filters through Earth\u2019s atmosphere.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/maf-20260303-lunareclipse-01orig.jpg"
-    },
-    {
         "date": "2026-03-07",
         "title": "Weekends on the Space Station",
         "description": "Weekends on the International Space Station are for housecleaning and haircuts. NASA astronaut Jessica Meir trims the hair of fellow NASA astronaut Jack Hathaway, both Expedition 74 flight engineers, using an electric razor attached to a vacuum that collects loose clippings to keep the station\u2019s atmosphere clean in microgravity.",
@@ -178,5 +172,11 @@
         "title": "Hello, World",
         "description": "NASA astronaut and Artemis II Commander Reid Wiseman took this picture of Earth from the Orion spacecraft\u2019s window on April 2, 2026, after completing the translunar injection burn.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e000192.jpg"
+    },
+    {
+        "date": "2026-04-05",
+        "title": "Illuminated in Orion",
+        "description": "NASA astronaut Christina Koch is illuminated by a screen inside the darkened Orion spacecraft on the third day of the agency\u2019s Artemis II mission. To the right of the image\u2019s center, CSA (Canadian Space Agency) astronaut Jeremy Hansen is seen in profile peering out of one of Orion\u2019s windows. Lights are turned off to avoid glare on the windows.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/55187055368-7ab1e4c6a4-o.jpg"
     }
 ]
