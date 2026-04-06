@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-07",
-        "title": "Weekends on the Space Station",
-        "description": "Weekends on the International Space Station are for housecleaning and haircuts. NASA astronaut Jessica Meir trims the hair of fellow NASA astronaut Jack Hathaway, both Expedition 74 flight engineers, using an electric razor attached to a vacuum that collects loose clippings to keep the station\u2019s atmosphere clean in microgravity.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/iss074e0335606orig.jpg"
-    },
-    {
         "date": "2026-03-08",
         "title": "Weekends on the Space Station",
         "description": "Weekends on the International Space Station are for housecleaning and haircuts. NASA astronaut Jessica Meir trims the hair of fellow NASA astronaut Jack Hathaway, both Expedition 74 flight engineers, using an electric razor attached to a vacuum that collects loose clippings to keep the station\u2019s atmosphere clean in microgravity.",
@@ -178,5 +172,11 @@
         "title": "Illuminated in Orion",
         "description": "NASA astronaut Christina Koch is illuminated by a screen inside the darkened Orion spacecraft on the third day of the agency\u2019s Artemis II mission. To the right of the image\u2019s center, CSA (Canadian Space Agency) astronaut Jeremy Hansen is seen in profile peering out of one of Orion\u2019s windows. Lights are turned off to avoid glare on the windows.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/55187055368-7ab1e4c6a4-o.jpg"
+    },
+    {
+        "date": "2026-04-06",
+        "title": "Thinking of You, Earth",
+        "description": "NASA astronaut and Artemis II Commander Reid Wiseman peers out of one of the Orion spacecraft\u2019s main cabin windows on April 4, 2026, looking back at Earth, as the crew travels towards the Moon.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e008486orig.jpg"
     }
 ]
