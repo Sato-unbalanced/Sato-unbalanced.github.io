@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-19",
-        "title": "Lava Flows Down Mayon",
-        "description": "At any given moment, about 20 volcanoes on Earth are actively erupting. Often among them is Mayon\u2014the most active volcano in the Philippines.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/mayonvolcano-oli-20260226-lrg.jpg"
-    },
-    {
         "date": "2026-03-20",
         "title": "American Bald Eagle at NASA\u2019s Kennedy Space Center",
         "description": "An American bald eagles flies away from its nest and tree at NASA\u2019s Kennedy Space Center in Florida on Friday, March 13, 2026.",
@@ -178,5 +172,11 @@
         "title": "At the Edge of Light",
         "description": "A portion of the Moon\u2019s far side is seen along the terminator\u2014the boundary between lunar day and night\u2014where low-angle sunlight casts long shadows across the surface.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/55207935871-acaeaa8692-o.jpg"
+    },
+    {
+        "date": "2026-04-18",
+        "title": "NASA\u2019s SPHEREx Observatory Maps Interstellar Ice in Milky Way",
+        "description": "An observation made by NASA\u2019s SPHEREx mission reveals vast frozen complexes in the Cygnus X star-forming region of the Milky Way galaxy. The chemical signature of water ice is shown as bright blue structures, while polycyclic aromatic hydrocarbons are in orange.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/pia26748-spherex-cygnus-h2o-ice.jpg"
     }
 ]
