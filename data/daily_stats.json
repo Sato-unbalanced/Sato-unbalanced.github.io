@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-24",
-        "title": "NASA\u2019s Hubble, Webb Telescopes Survey Pinwheel Galaxy",
-        "description": "This new image from the Hubble Space Telescope and the James Webb Space Telescope takes a closer look at the core of Messier 101, also known as the Pinwheel Galaxy.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/55150964901-45196b40b6-o.jpg"
-    },
-    {
         "date": "2026-03-25",
         "title": "Reminders of Where We\u2019ve Been, Where We\u2019re Going",
         "description": "Moon rocks are seen during a March 24, 2026, event where NASA is outlining how the agency is executing the National Space Policy and accelerating preparations for America\u2019s return to the surface of the Moon by 2028.",
@@ -178,5 +172,11 @@
         "title": "A Fresh Look at the Crab Nebula",
         "description": "This image that NASA\u2019s Hubble Space Telescope captured of the Crab Nebula, paired with its past observations and those of other telescopes, allows astronomers to study how the supernova remnant is expanding and evolving over time.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/full-res-for-display-3.png"
+    },
+    {
+        "date": "2026-04-23",
+        "title": "Night and (Earth) Day",
+        "description": "This image, released in celebration of Earth Day, shows the terminator \u2013 the line between night and day \u2013 on Earth. The Artemis II astronauts captured this view on April 2, 2026, during their journey to the Moon.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e023345-o.jpg"
     }
 ]
