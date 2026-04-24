@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-25",
-        "title": "Reminders of Where We\u2019ve Been, Where We\u2019re Going",
-        "description": "Moon rocks are seen during a March 24, 2026, event where NASA is outlining how the agency is executing the National Space Policy and accelerating preparations for America\u2019s return to the surface of the Moon by 2028.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/55166159616-92fbcbb330-o.jpg"
-    },
-    {
         "date": "2026-03-26",
         "title": "Webb Captures Saturn in Infrared",
         "description": "Captured Nov. 29, 2024 by NASA\u2019s James Webb Space Telescope, this infrared view of Saturn shows its glowing icy rings and layered atmosphere. Several moons are visible, including Janus, Dione, and Enceladus.",
@@ -178,5 +172,11 @@
         "title": "Night and (Earth) Day",
         "description": "This image, released in celebration of Earth Day, shows the terminator \u2013 the line between night and day \u2013 on Earth. The Artemis II astronauts captured this view on April 2, 2026, during their journey to the Moon.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e023345-o.jpg"
+    },
+    {
+        "date": "2026-04-24",
+        "title": "NASA\u2019s Chandra Finds Young Stars Dim Quickly",
+        "description": "Scientists have found that young stellar cousins of our Sun are calming down and dimming more quickly in their X-ray output than previously thought, according to a study using NASA\u2019s Chandra X-ray Observatory.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/dimming-lg.jpg"
     }
 ]
