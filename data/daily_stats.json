@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-26",
-        "title": "Webb Captures Saturn in Infrared",
-        "description": "Captured Nov. 29, 2024 by NASA\u2019s James Webb Space Telescope, this infrared view of Saturn shows its glowing icy rings and layered atmosphere. Several moons are visible, including Janus, Dione, and Enceladus.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/full-res-for-display-2.png"
-    },
-    {
         "date": "2026-03-27",
         "title": "NASA\u2019s IXPE Gets Fresh Look at Supernova",
         "description": "NASA\u2019s IXPE observed the outer rim of the supernova remnant highlighted in purple in the inset. Data from IXPE is combined with data from NASA\u2019s Chandra X-ray Observatory and ESA\u2019s XMM-Newton.",
@@ -178,5 +172,11 @@
         "title": "NASA\u2019s Chandra Finds Young Stars Dim Quickly",
         "description": "Scientists have found that young stellar cousins of our Sun are calming down and dimming more quickly in their X-ray output than previously thought, according to a study using NASA\u2019s Chandra X-ray Observatory.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/dimming-lg.jpg"
+    },
+    {
+        "date": "2026-04-25",
+        "title": "The Day of the Trifid Nebula",
+        "description": "NASA celebrates Hubble\u2019s 36th anniversary with a new image of the Trifid Nebula, a star-forming region it first captured in 1997. The telescope leveraged almost its full operational lifetime to show us changes in the nebula on human time scales with an improved camera.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/full-res-for-display.png"
     }
 ]
