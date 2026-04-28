@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-03-29",
-        "title": "Artemis II Crew\u2019s Suits",
-        "description": "The Orion Crew Survival System suits that Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, and Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency) will wear on the Artemis II test flight are seen in the suit-up room of the Neil A. Armstrong Operations and Checkout Building, Saturday, Jan. 17, 2026, at NASA\u2019s Kennedy Space Center in Florida.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/02/nhq202601170114orig.jpg"
-    },
-    {
         "date": "2026-03-30",
         "title": "Artemis II Crew\u2019s Suits",
         "description": "The Orion Crew Survival System suits that Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialist Christina Koch from NASA, and Mission Specialist Jeremy Hansen from the CSA (Canadian Space Agency) will wear on the Artemis II test flight are seen in the suit-up room of the Neil A. Armstrong Operations and Checkout Building, Saturday, Jan. 17, 2026, at NASA\u2019s Kennedy Space Center in Florida.",
@@ -178,5 +172,11 @@
         "title": "The Day of the Trifid Nebula",
         "description": "NASA celebrates Hubble\u2019s 36th anniversary with a new image of the Trifid Nebula, a star-forming region it first captured in 1997. The telescope leveraged almost its full operational lifetime to show us changes in the nebula on human time scales with an improved camera.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/full-res-for-display.png"
+    },
+    {
+        "date": "2026-04-28",
+        "title": "NASA\u2019s X-59 Gets Freedom 250 Logo",
+        "description": "The X-59\u2019s tail and jet engine feature a new marking \u2014 a Freedom 250 logo celebrating the nation\u2019s 250th birthday in 2026.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/afrc2026-0077-01.webp"
     }
 ]
