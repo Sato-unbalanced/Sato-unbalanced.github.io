@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-04-01",
-        "title": "Godspeed, Artemis II!",
-        "description": "NASA astronaut Jessica Meir shared this photo of an Artemis program patch floating in the International Space Station\u2019s cupola on X.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/her1pqpbeaazfzl.jpg"
-    },
-    {
         "date": "2026-04-02",
         "title": "Godspeed, Artemis II!",
         "description": "NASA astronaut Jessica Meir shared this photo of an Artemis program patch floating in the International Space Station\u2019s cupola on X.",
@@ -178,5 +172,11 @@
         "title": "A Gently Glowing Galaxy",
         "description": "The barred spiral galaxy IC 486 glows with a soft, ethereal light in this NASA Hubble Space Telescope image.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/55205768700-7d3f580146-o.jpg"
+    },
+    {
+        "date": "2026-05-01",
+        "title": "Artemis III Rocket Core Stage Moves to NASA Kennedy",
+        "description": "NASA\u2019s SLS (Space Launch System) core stage\u00a0for the Artemis III mission\u00a0moves into the Vehicle Assembly Building at the agency\u2019s Kennedy Space Center in Florida on Tuesday, April 28, 2026.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/ksc-20260428-ph-geb02-0005orig.jpg"
     }
 ]
