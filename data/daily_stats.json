@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-04-02",
-        "title": "Godspeed, Artemis II!",
-        "description": "NASA astronaut Jessica Meir shared this photo of an Artemis program patch floating in the International Space Station\u2019s cupola on X.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/03/her1pqpbeaazfzl.jpg"
-    },
-    {
         "date": "2026-04-03",
         "title": "Artemis II Astronauts Launch to Moon",
         "description": "NASA\u2019s Space Launch System rocket carrying the Orion spacecraft with NASA astronauts Reid Wiseman, commander; Victor Glover, pilot; Christina Koch, mission specialist; and CSA (Canadian Space Agency) astronaut Jeremy Hansen, mission specialist onboard launches on the Artemis II mission, Wednesday, April 1, 2026, from Launch Complex 39B at NASA\u2019s Kennedy Space Center in Florida.",
@@ -178,5 +172,11 @@
         "title": "Artemis III Rocket Core Stage Moves to NASA Kennedy",
         "description": "NASA\u2019s SLS (Space Launch System) core stage\u00a0for the Artemis III mission\u00a0moves into the Vehicle Assembly Building at the agency\u2019s Kennedy Space Center in Florida on Tuesday, April 28, 2026.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/ksc-20260428-ph-geb02-0005orig.jpg"
+    },
+    {
+        "date": "2026-05-02",
+        "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
+        "description": "Nasdaq Chair and Chief Executive Officer Adena T. Friedman, left, and NASA\u2019s Artemis II crew ring the closing bell of the Nasdaq market session, Thursday, April 30, 2026.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55241093118-d474b58236-o.jpg"
     }
 ]
