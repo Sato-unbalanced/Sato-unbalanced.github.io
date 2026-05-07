@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-04-07",
-        "title": "The Near Side of the Moon",
-        "description": "A view of the near side of the Moon, the side we always see from Earth, as seen from the Orion spacecraft.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009057orig.jpg"
-    },
-    {
         "date": "2026-04-08",
         "title": "Earthset",
         "description": "Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew\u2019s flyby of the Moon.",
@@ -178,5 +172,11 @@
         "title": "Building on America\u2019s 65-Year Legacy of Human Spaceflight",
         "description": "America\u2019s first human spaceflight begins as the Mercury-Redstone 3 (MR-3) space vehicle, with astronaut Alan B. Shepard Jr. aboard, launches from Cape Canaveral, Florida on May 5, 1961.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/s61-01908orig.jpg"
+    },
+    {
+        "date": "2026-05-07",
+        "title": "Unlocking the Mystery of X-ray Dots",
+        "description": "A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/xraydot-illus-1.jpg"
     }
 ]
