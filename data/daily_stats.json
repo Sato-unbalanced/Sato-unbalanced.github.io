@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-04-08",
-        "title": "Earthset",
-        "description": "Earthset captured through the Orion spacecraft window at 6:41 p.m. EDT, April 6, 2026, during the Artemis II crew\u2019s flyby of the Moon.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/art002e009288orig-1.jpg"
-    },
-    {
         "date": "2026-04-09",
         "title": "Solar Eclipse of the Heart",
         "description": "The Moon, seen here backlit by the Sun during a solar eclipse on April 6, 2026, is photographed by one of the cameras on the Orion spacecraft\u2019s solar array wings. Orion is visible in the foreground on the left.",
@@ -178,5 +172,11 @@
         "title": "Unlocking the Mystery of X-ray Dots",
         "description": "A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/04/xraydot-illus-1.jpg"
+    },
+    {
+        "date": "2026-05-08",
+        "title": "A Light in the Dark",
+        "description": "A sliver of the edge of Earth is brightly illuminated against the vast darkness of space.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/art002e023710orig.jpg"
     }
 ]
