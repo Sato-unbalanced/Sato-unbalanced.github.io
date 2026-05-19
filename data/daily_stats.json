@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-04-19",
-        "title": "NASA\u2019s SPHEREx Observatory Maps Interstellar Ice in Milky Way",
-        "description": "An observation made by NASA\u2019s SPHEREx mission reveals vast frozen complexes in the Cygnus X star-forming region of the Milky Way galaxy. The chemical signature of water ice is shown as bright blue structures, while polycyclic aromatic hydrocarbons are in orange.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/pia26748-spherex-cygnus-h2o-ice.jpg"
-    },
-    {
         "date": "2026-04-20",
         "title": "NASA\u2019s SPHEREx Observatory Maps Interstellar Ice in Milky Way",
         "description": "An observation made by NASA\u2019s SPHEREx mission reveals vast frozen complexes in the Cygnus X star-forming region of the Milky Way galaxy. The chemical signature of water ice is shown as bright blue structures, while polycyclic aromatic hydrocarbons are in orange.",
@@ -178,5 +172,11 @@
         "title": "Curiosity Shakes Loose a Pesky Rock",
         "description": "NASA\u2019s Curiosity Mars rover used its Mast Camera, or Mastcam, to capture this view of a rock nicknamed \u201cAtacama\u201d on May 6, 2026, the 4,877th Martian day, or sol, of the mission. The rock had gotten stuck to the drill on the end of Curiosity\u2019s robotic arm on April 25.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/05/pia26724.png"
+    },
+    {
+        "date": "2026-05-19",
+        "title": "Beacon of Light",
+        "description": "This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77 (M77), a barred spiral galaxy famous and appreciated among astronomers for its combination of relative proximity and spectacular features to study. It is located 45 million light-years away in the constellation Cetus (The Whale).",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55255325881-69941927eb-o.jpg"
     }
 ]
