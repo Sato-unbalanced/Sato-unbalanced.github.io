@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-04-22",
-        "title": "A Fresh Look at the Crab Nebula",
-        "description": "This image that NASA\u2019s Hubble Space Telescope captured of the Crab Nebula, paired with its past observations and those of other telescopes, allows astronomers to study how the supernova remnant is expanding and evolving over time.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/full-res-for-display-3.png"
-    },
-    {
         "date": "2026-04-23",
         "title": "Night and (Earth) Day",
         "description": "This image, released in celebration of Earth Day, shows the terminator \u2013 the line between night and day \u2013 on Earth. The Artemis II astronauts captured this view on April 2, 2026, during their journey to the Moon.",
@@ -178,5 +172,11 @@
         "title": "Moon-Venus Conjunction",
         "description": "The Moon and Venus, center, are seen in conjunction above the Washington Monument, Monday, May 18, 2026, as viewed from the Mary W. Jackson NASA Headquarters Building in Washington.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605180004orig.jpg"
+    },
+    {
+        "date": "2026-05-22",
+        "title": "Hubble Sights Galaxy in Transition",
+        "description": "This NASA Hubble Space Telescope images reveals the lenticular galaxy, NGC 1266. This enigmatic post-starburst galaxy has a bright center and a face that hints at spiral structure, yet it holds no discernable spiral arms.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/hubble-ngc1266-2-4f-flat-final-crop2.jpg"
     }
 ]
