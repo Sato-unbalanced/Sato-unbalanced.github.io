@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-04-27",
-        "title": "The Day of the Trifid Nebula",
-        "description": "NASA celebrates Hubble\u2019s 36th anniversary with a new image of the Trifid Nebula, a star-forming region it first captured in 1997. The telescope leveraged almost its full operational lifetime to show us changes in the nebula on human time scales with an improved camera.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/full-res-for-display.png"
-    },
-    {
         "date": "2026-04-28",
         "title": "NASA\u2019s X-59 Gets Freedom 250 Logo",
         "description": "The X-59\u2019s tail and jet engine feature a new marking \u2014 a Freedom 250 logo celebrating the nation\u2019s 250th birthday in 2026.",
@@ -178,5 +172,11 @@
         "title": "Webb Studies Star Clusters",
         "description": "This near-infrared image shows a section of one of the spiral arms of Messier 51 (M51).",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55252854454-c4ed9aa664-o.jpg"
+    },
+    {
+        "date": "2026-05-27",
+        "title": "Chennai City Lights",
+        "description": "Chennai, on India\u2019s southern coast along the Bay of Bengal and with a metropolitan population of about 8.7 million, shines with white LED streetlights in this photograph taken at approximately 9:13 p.m. local time on May 2, 2026, from the International Space Station.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/iss074e0543247orig.jpg"
     }
 ]
