@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-03",
-        "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
-        "description": "Nasdaq Chair and Chief Executive Officer Adena T. Friedman, left, and NASA\u2019s Artemis II crew ring the closing bell of the Nasdaq market session, Thursday, April 30, 2026.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55241093118-d474b58236-o.jpg"
-    },
-    {
         "date": "2026-05-04",
         "title": "NASA Artemis II Crew Rings Nasdaq Closing Bell",
         "description": "Nasdaq Chair and Chief Executive Officer Adena T. Friedman, left, and NASA\u2019s Artemis II crew ring the closing bell of the Nasdaq market session, Thursday, April 30, 2026.",
@@ -178,5 +172,11 @@
         "title": "Hubble Spies Faint Irregular Galaxy",
         "description": "This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/05/eso490-017-1-flat-final-crop.jpg"
+    },
+    {
+        "date": "2026-06-02",
+        "title": "Pretty in Pink",
+        "description": "This image of Westerlund 2 features Chandra X-ray Observatory data (pink) and James Webb infrared data (red, orange, green, cyan, and blue).",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55270825152-a1118117db-o.jpg"
     }
 ]
