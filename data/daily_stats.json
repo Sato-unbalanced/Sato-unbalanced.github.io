@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-06",
-        "title": "Building on America\u2019s 65-Year Legacy of Human Spaceflight",
-        "description": "America\u2019s first human spaceflight begins as the Mercury-Redstone 3 (MR-3) space vehicle, with astronaut Alan B. Shepard Jr. aboard, launches from Cape Canaveral, Florida on May 5, 1961.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/s61-01908orig.jpg"
-    },
-    {
         "date": "2026-05-07",
         "title": "Unlocking the Mystery of X-ray Dots",
         "description": "A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years.",
@@ -178,5 +172,11 @@
         "title": "Journey to the Center of the Virgo Cluster",
         "description": "This NASA/ESA Hubble Space Telescope image features the spiral galaxy Messier 88 (M88).",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/hubble-m88-potm2605a.jpg"
+    },
+    {
+        "date": "2026-06-05",
+        "title": "Colorful, Chaotic Jupiter",
+        "description": "During its 61st close flyby of Jupiter on May 12, 2024, NASA\u2019s Juno spacecraft captured this color-enhanced view of the giant planet\u2019s northern hemisphere.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/pia25729orig.jpg"
     }
 ]
