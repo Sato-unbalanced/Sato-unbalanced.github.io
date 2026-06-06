@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-07",
-        "title": "Unlocking the Mystery of X-ray Dots",
-        "description": "A newly discovered object may be a key to unlocking the true nature of a mysterious class of sources that astronomers have found in the early universe in recent years.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/04/xraydot-illus-1.jpg"
-    },
-    {
         "date": "2026-05-08",
         "title": "A Light in the Dark",
         "description": "A sliver of the edge of Earth is brightly illuminated against the vast darkness of space.",
@@ -178,5 +172,11 @@
         "title": "Colorful, Chaotic Jupiter",
         "description": "During its 61st close flyby of Jupiter on May 12, 2024, NASA\u2019s Juno spacecraft captured this color-enhanced view of the giant planet\u2019s northern hemisphere.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/pia25729orig.jpg"
+    },
+    {
+        "date": "2026-06-06",
+        "title": "First Steps: America\u2019s Grueling Second Spacewalk",
+        "description": "A year after America\u2019s first spacewalk, Gemini IX-A Eugene Cernan stepped outside his spacecraft for an ambitious extravehicular activity scheduled for 167 minutes. The challenges he faced led NASA to reevaluate plans, equipment, and training for future spacewalks.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/s66-38515orig.jpg"
     }
 ]
