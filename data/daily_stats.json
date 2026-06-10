@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-11",
-        "title": "Glowing Views from the Space Station",
-        "description": "This celestial image captured from a window on a SpaceX Dragon spacecraft docked to the International Space Station highlights the Milky Way rising above Earth\u2019s atmospheric glow.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/iss074e0521637orig.jpg"
-    },
-    {
         "date": "2026-05-12",
         "title": "NASA Astronaut Jessica Meir",
         "description": "NASA astronaut Jessica Meir poses with an Extravehicular Mobility Unit (EMU) spacesuit during an official portrait session at NASA\u2019s Johnson Space Center in Houston.",
@@ -178,5 +172,11 @@
         "title": "Supersonic!",
         "description": "NASA\u2019s X-59 quiet supersonic research aircraft completed its first supersonic flight Friday, June 5,\u202f2026, marking the first time the aircraft exceeded the speed of sound in support of NASA\u2019s Quesst mission. The milestone represents a major step in flight testing as the aircraft expands into the supersonic portion of its flight envelope.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-ata-02.png"
+    },
+    {
+        "date": "2026-06-10",
+        "title": "Artemis III Crew Announced",
+        "description": "NASA announced the Artemis III crew on Tuesday, June 9, 2026. NASA astronaut Andre Douglas, mission specialist; ESA (European Space Agency) astronaut Luca Parmitano, pilot; NASA astronaut Randy Bresnik, commander; and NASA astronaut Frank Rubio, mission specialist, will demonstrate the Orion spacecraft\u2019s rendezvous and docking capabilities with test versions from one, or both, American commercial human landing systems in development by Blue Origin and SpaceX.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e392659.jpg"
     }
 ]
