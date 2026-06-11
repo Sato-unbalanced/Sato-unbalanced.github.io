@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-12",
-        "title": "NASA Astronaut Jessica Meir",
-        "description": "NASA astronaut Jessica Meir poses with an Extravehicular Mobility Unit (EMU) spacesuit during an official portrait session at NASA\u2019s Johnson Space Center in Houston.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/jsc2025e078652-altorig.jpg"
-    },
-    {
         "date": "2026-05-13",
         "title": "Perseverance Stuns in New Selfie",
         "description": "NASA\u2019s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls \u201cLac de Charmes.\u201d",
@@ -178,5 +172,11 @@
         "title": "Artemis III Crew Announced",
         "description": "NASA announced the Artemis III crew on Tuesday, June 9, 2026. NASA astronaut Andre Douglas, mission specialist; ESA (European Space Agency) astronaut Luca Parmitano, pilot; NASA astronaut Randy Bresnik, commander; and NASA astronaut Frank Rubio, mission specialist, will demonstrate the Orion spacecraft\u2019s rendezvous and docking capabilities with test versions from one, or both, American commercial human landing systems in development by Blue Origin and SpaceX.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e392659.jpg"
+    },
+    {
+        "date": "2026-06-11",
+        "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
+        "description": "A train transports eight booster motor segments for the SLS (Space Launch System rocket) that will power NASA\u2019s Artemis III mission from Northrop Grumman\u2019s Railyard Shipping Facility in Corinne, Utah, June 2, to NASA\u2019s Kennedy Space Center in Florida.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/ng-06022026-artemis-iii-booster-segment-shipment-to-ksc-1-31large.jpg"
     }
 ]
