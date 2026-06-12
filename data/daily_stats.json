@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-13",
-        "title": "Perseverance Stuns in New Selfie",
-        "description": "NASA\u2019s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls \u201cLac de Charmes.\u201d",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/pia26650-watson-take-6-up-small.png"
-    },
-    {
         "date": "2026-05-14",
         "title": "Rise Goes to Washington",
         "description": "\u201cRise,\u201d the Artemis II zero gravity indicator, is seen sitting on the dais as the Artemis II astronauts speak with congressional staff, Tuesday, May 12, 2026, in Washington.",
@@ -178,5 +172,11 @@
         "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
         "description": "A train transports eight booster motor segments for the SLS (Space Launch System rocket) that will power NASA\u2019s Artemis III mission from Northrop Grumman\u2019s Railyard Shipping Facility in Corinne, Utah, June 2, to NASA\u2019s Kennedy Space Center in Florida.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/ng-06022026-artemis-iii-booster-segment-shipment-to-ksc-1-31large.jpg"
+    },
+    {
+        "date": "2026-06-12",
+        "title": "Soccer Meets Space Science",
+        "description": "Researchers tested soccer balls aboard the International Space Station to study how internal mass affects motion and stability in microgravity.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0349331.jpg"
     }
 ]
