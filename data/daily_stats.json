@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-14",
-        "title": "Rise Goes to Washington",
-        "description": "\u201cRise,\u201d the Artemis II zero gravity indicator, is seen sitting on the dais as the Artemis II astronauts speak with congressional staff, Tuesday, May 12, 2026, in Washington.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/nhq202605120023orig.jpg"
-    },
-    {
         "date": "2026-05-15",
         "title": "Fresh Food Delivery for Space Station",
         "description": "You\u2019re allowed to play with your food when you\u2019re on the International Space Station! To celebrate a delivery of fresh food, NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) pose for a group photo.",
@@ -178,5 +172,11 @@
         "title": "Soccer Meets Space Science",
         "description": "Researchers tested soccer balls aboard the International Space Station to study how internal mass affects motion and stability in microgravity.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0349331.jpg"
+    },
+    {
+        "date": "2026-06-13",
+        "title": "Black Eye Galaxy",
+        "description": "Easily identified by the spectacular band of dark dust that partially obscures its bright core, Messier 64, or the Black Eye Galaxy, is characterized by its bizarre internal motion.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/55158722798-9bb0f41f19-o.jpg"
     }
 ]
