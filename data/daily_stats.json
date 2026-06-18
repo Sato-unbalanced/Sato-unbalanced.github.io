@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-19",
-        "title": "Beacon of Light",
-        "description": "This latest Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope features Messier 77 (M77), a barred spiral galaxy famous and appreciated among astronomers for its combination of relative proximity and spectacular features to study. It is located 45 million light-years away in the constellation Cetus (The Whale).",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55255325881-69941927eb-o.jpg"
-    },
-    {
         "date": "2026-05-20",
         "title": "Moon-Venus Conjunction",
         "description": "The Moon and Venus, center, are seen in conjunction above the Washington Monument, Monday, May 18, 2026, as viewed from the Mary W. Jackson NASA Headquarters Building in Washington.",
@@ -178,5 +172,11 @@
         "title": "Aurora Australis",
         "description": "The aurora australis arcs over Earth during an active solar event in this photograph taken at approximately 11:32 p.m. local time from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia on June 5.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0672727orig.jpg"
+    },
+    {
+        "date": "2026-06-18",
+        "title": "Hubble Sees Swarm of Galaxies",
+        "description": "This NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/macs0329-0211-sky-sreg-flat-final.jpg"
     }
 ]
