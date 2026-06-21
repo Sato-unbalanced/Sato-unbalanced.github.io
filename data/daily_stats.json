@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-22",
-        "title": "Hubble Sights Galaxy in Transition",
-        "description": "This NASA Hubble Space Telescope images reveals the lenticular galaxy, NGC 1266. This enigmatic post-starburst galaxy has a bright center and a face that hints at spiral structure, yet it holds no discernable spiral arms.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/hubble-ngc1266-2-4f-flat-final-crop2.jpg"
-    },
-    {
         "date": "2026-05-23",
         "title": "Webb Studies Star Clusters",
         "description": "This near-infrared image shows a section of one of the spiral arms of Messier 51 (M51).",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-06-20",
+        "title": "Stages of Star Formation",
+        "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month shows the giant molecular cloud Orion A, an area of the sky replete with star-forming clouds.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/55323265139-3f76fbd65a-o.jpg"
+    },
+    {
+        "date": "2026-06-21",
         "title": "Stages of Star Formation",
         "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month shows the giant molecular cloud Orion A, an area of the sky replete with star-forming clouds.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/55323265139-3f76fbd65a-o.jpg"
