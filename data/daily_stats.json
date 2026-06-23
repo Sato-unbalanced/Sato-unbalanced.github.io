@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-24",
-        "title": "Webb Studies Star Clusters",
-        "description": "This near-infrared image shows a section of one of the spiral arms of Messier 51 (M51).",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55252854454-c4ed9aa664-o.jpg"
-    },
-    {
         "date": "2026-05-25",
         "title": "Webb Studies Star Clusters",
         "description": "This near-infrared image shows a section of one of the spiral arms of Messier 51 (M51).",
@@ -178,5 +172,11 @@
         "title": "Stages of Star Formation",
         "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month shows the giant molecular cloud Orion A, an area of the sky replete with star-forming clouds.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/55323265139-3f76fbd65a-o.jpg"
+    },
+    {
+        "date": "2026-06-23",
+        "title": "NASA\u2019s Chandra Finds Possible Supernova Remnant",
+        "description": "Using data from NASA\u2019s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy.",
+        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/sgrc-lg.jpg"
     }
 ]
