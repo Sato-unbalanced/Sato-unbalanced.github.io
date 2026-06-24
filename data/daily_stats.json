@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-25",
-        "title": "Webb Studies Star Clusters",
-        "description": "This near-infrared image shows a section of one of the spiral arms of Messier 51 (M51).",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55252854454-c4ed9aa664-o.jpg"
-    },
-    {
         "date": "2026-05-26",
         "title": "Webb Studies Star Clusters",
         "description": "This near-infrared image shows a section of one of the spiral arms of Messier 51 (M51).",
@@ -178,5 +172,11 @@
         "title": "NASA\u2019s Chandra Finds Possible Supernova Remnant",
         "description": "Using data from NASA\u2019s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy.",
         "link": "https://www.nasa.gov/wp-content/uploads/2026/06/sgrc-lg.jpg"
+    },
+    {
+        "date": "2026-06-24",
+        "title": "Hanging in the Balance",
+        "description": "The Moon\u2019s rocky, uneven, and otherworldly surface features are highlighted by the terminator \u2013 the difference between light and darkness.",
+        "link": "https://www.nasa.gov/image-detail/art002e024603/"
     }
 ]
