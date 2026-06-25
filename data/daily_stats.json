@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-26",
-        "title": "Webb Studies Star Clusters",
-        "description": "This near-infrared image shows a section of one of the spiral arms of Messier 51 (M51).",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55252854454-c4ed9aa664-o.jpg"
-    },
-    {
         "date": "2026-05-27",
         "title": "Chennai City Lights",
         "description": "Chennai, on India\u2019s southern coast along the Bay of Bengal and with a metropolitan population of about 8.7 million, shines with white LED streetlights in this photograph taken at approximately 9:13 p.m. local time on May 2, 2026, from the International Space Station.",
@@ -178,5 +172,11 @@
         "title": "Hanging in the Balance",
         "description": "The Moon\u2019s rocky, uneven, and otherworldly surface features are highlighted by the terminator \u2013 the difference between light and darkness.",
         "link": "https://www.nasa.gov/image-detail/art002e024603/"
+    },
+    {
+        "date": "2026-06-25",
+        "title": "Roman Telescope Comes to Kennedy",
+        "description": "NASA\u2019s Pegasus barge arrives at the Launch Complex 39 turn basin at the agency\u2019s Kennedy Space Center in Florida carrying NASA\u2019s Nancy Grace Roman Space Telescope on Sunday, June 21, 2026.",
+        "link": "https://www.nasa.gov/image-detail/afs-8-101-1289/"
     }
 ]
