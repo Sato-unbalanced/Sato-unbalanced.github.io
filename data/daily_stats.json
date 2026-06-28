@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-29",
-        "title": "Going Low and Slow in Testing",
-        "description": "NASA\u2019s X-59 quiet supersonic research aircraft flies above NASA\u2019s Armstrong Flight Research Center in Edwards, California, during testing focused on lower-speed and altitude flight conditions in support of NASA\u2019s Quesst mission. NASA continues to include two-flight days in its envelope expansion as teams work to better understand how the aircraft responds throughout its operating range.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/afrc2026-0100-73-48ea27.jpg"
-    },
-    {
         "date": "2026-05-30",
         "title": "Hubble Spies Faint Irregular Galaxy",
         "description": "This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-06-27",
+        "title": "Euclid Sees Heart of Milky Way",
+        "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
+        "link": "https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/"
+    },
+    {
+        "date": "2026-06-28",
         "title": "Euclid Sees Heart of Milky Way",
         "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
         "link": "https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/"
