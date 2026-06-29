@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-30",
-        "title": "Hubble Spies Faint Irregular Galaxy",
-        "description": "This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/eso490-017-1-flat-final-crop.jpg"
-    },
-    {
         "date": "2026-05-31",
         "title": "Hubble Spies Faint Irregular Galaxy",
         "description": "This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-06-28",
+        "title": "Euclid Sees Heart of Milky Way",
+        "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
+        "link": "https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/"
+    },
+    {
+        "date": "2026-06-29",
         "title": "Euclid Sees Heart of Milky Way",
         "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
         "link": "https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/"
