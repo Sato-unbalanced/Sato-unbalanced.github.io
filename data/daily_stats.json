@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-05-31",
-        "title": "Hubble Spies Faint Irregular Galaxy",
-        "description": "This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/eso490-017-1-flat-final-crop.jpg"
-    },
-    {
         "date": "2026-06-01",
         "title": "Hubble Spies Faint Irregular Galaxy",
         "description": "This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017.",
@@ -178,5 +172,11 @@
         "title": "Euclid Sees Heart of Milky Way",
         "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
         "link": "https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/"
+    },
+    {
+        "date": "2026-06-30",
+        "title": "NASA Astronaut Chris Williams Preps for Spacewalk",
+        "description": "Flight engineer Sophie Adenot of ESA (European Space Agency) assists flight engineer Chris Williams of NASA as he tries on his spacesuit, testing its comfort and mobility as well as its communications and life support systems inside the International Space Station\u2019s Quest airlock.",
+        "link": "https://www.nasa.gov/image-detail/iss074e0760514/"
     }
 ]
