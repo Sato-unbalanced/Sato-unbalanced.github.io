@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-02",
-        "title": "Pretty in Pink",
-        "description": "This image of Westerlund 2 features Chandra X-ray Observatory data (pink) and James Webb infrared data (red, orange, green, cyan, and blue).",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/05/55270825152-a1118117db-o.jpg"
-    },
-    {
         "date": "2026-06-03",
         "title": "Look Up!",
         "description": "Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NASA, both Expedition 74 flight engineers, look out a window in the cupola.",
@@ -178,5 +172,11 @@
         "title": "Starry Chandelier Cluster",
         "description": "This NASA/ESA Hubble Space Telescope image features the globular cluster NGC 6723, sometimes called the Chandelier Cluster.",
         "link": "https://www.nasa.gov/image-detail/55357496142-295d2a4b87-o/"
+    },
+    {
+        "date": "2026-07-02",
+        "title": "LINK Spacecraft Set for Mission to Boost NASA\u2019s Swift Observatory",
+        "description": "A Katalyst engineer runs tests on LINK while the satellite is inside the Pegasus XL rocket attached to the Stargazer aircraft at NASA\u2019s Wallops Flight Facility on the evening of Tuesday, June 16, 2026.",
+        "link": "https://www.nasa.gov/image-detail/stargazer-aircraft-with-link-spacecraft-at-nasa-wallops/"
     }
 ]
