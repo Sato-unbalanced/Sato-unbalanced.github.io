@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-03",
-        "title": "Look Up!",
-        "description": "Astronauts Sophie Adenot of ESA (European Space Agency) and Jack Hathaway of NASA, both Expedition 74 flight engineers, look out a window in the cupola.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/55299665361-f70b9ce302-o.jpg"
-    },
-    {
         "date": "2026-06-04",
         "title": "Journey to the Center of the Virgo Cluster",
         "description": "This NASA/ESA Hubble Space Telescope image features the spiral galaxy Messier 88 (M88).",
@@ -178,5 +172,11 @@
         "title": "LINK Spacecraft Set for Mission to Boost NASA\u2019s Swift Observatory",
         "description": "A Katalyst engineer runs tests on LINK while the satellite is inside the Pegasus XL rocket attached to the Stargazer aircraft at NASA\u2019s Wallops Flight Facility on the evening of Tuesday, June 16, 2026.",
         "link": "https://www.nasa.gov/image-detail/stargazer-aircraft-with-link-spacecraft-at-nasa-wallops/"
+    },
+    {
+        "date": "2026-07-03",
+        "title": "Good Morning, Earth!",
+        "description": "A bright orange sunburst illuminates Earth\u2019s atmosphere during an orbital sunrise in this photograph from the International Space Station as it orbited 264 miles above the Caucasus Mountains.",
+        "link": "https://www.nasa.gov/image-detail/iss074e0779393/"
     }
 ]
