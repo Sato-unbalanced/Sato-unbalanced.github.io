@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-07",
-        "title": "First Steps: America\u2019s Grueling Second Spacewalk",
-        "description": "A year after America\u2019s first spacewalk, Gemini IX-A Eugene Cernan stepped outside his spacecraft for an ambitious extravehicular activity scheduled for 167 minutes. The challenges he faced led NASA to reevaluate plans, equipment, and training for future spacewalks.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/s66-38515orig.jpg"
-    },
-    {
         "date": "2026-06-08",
         "title": "First Steps: America\u2019s Grueling Second Spacewalk",
         "description": "A year after America\u2019s first spacewalk, Gemini IX-A Eugene Cernan stepped outside his spacecraft for an ambitious extravehicular activity scheduled for 167 minutes. The challenges he faced led NASA to reevaluate plans, equipment, and training for future spacewalks.",
@@ -178,5 +172,11 @@
         "title": "Good Morning, Earth!",
         "description": "A bright orange sunburst illuminates Earth\u2019s atmosphere during an orbital sunrise in this photograph from the International Space Station as it orbited 264 miles above the Caucasus Mountains.",
         "link": "https://www.nasa.gov/image-detail/iss074e0779393/"
+    },
+    {
+        "date": "2026-07-07",
+        "title": "NASA Takes Flight For America\u2019s 250th",
+        "description": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C.",
+        "link": "https://www.nasa.gov/image-detail/nasa-at-the-great-american-state-fair/"
     }
 ]
