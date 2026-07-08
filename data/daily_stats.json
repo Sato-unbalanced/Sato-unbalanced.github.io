@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-08",
-        "title": "First Steps: America\u2019s Grueling Second Spacewalk",
-        "description": "A year after America\u2019s first spacewalk, Gemini IX-A Eugene Cernan stepped outside his spacecraft for an ambitious extravehicular activity scheduled for 167 minutes. The challenges he faced led NASA to reevaluate plans, equipment, and training for future spacewalks.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/s66-38515orig.jpg"
-    },
-    {
         "date": "2026-06-09",
         "title": "Supersonic!",
         "description": "NASA\u2019s X-59 quiet supersonic research aircraft completed its first supersonic flight Friday, June 5,\u202f2026, marking the first time the aircraft exceeded the speed of sound in support of NASA\u2019s Quesst mission. The milestone represents a major step in flight testing as the aircraft expands into the supersonic portion of its flight envelope.",
@@ -178,5 +172,11 @@
         "title": "NASA Takes Flight For America\u2019s 250th",
         "description": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C.",
         "link": "https://www.nasa.gov/image-detail/nasa-at-the-great-american-state-fair/"
+    },
+    {
+        "date": "2026-07-08",
+        "title": "Artemis II Crew and Apollo 14 Moon Tree",
+        "description": "The Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA\u2019s Johnson Space Center. This tree is a second-generation Apollo Moon tree of the loblolly pine species.",
+        "link": "https://www.nasa.gov/image-detail/jsc2026e396761/"
     }
 ]
