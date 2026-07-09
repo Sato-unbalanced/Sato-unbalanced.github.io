@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-09",
-        "title": "Supersonic!",
-        "description": "NASA\u2019s X-59 quiet supersonic research aircraft completed its first supersonic flight Friday, June 5,\u202f2026, marking the first time the aircraft exceeded the speed of sound in support of NASA\u2019s Quesst mission. The milestone represents a major step in flight testing as the aircraft expands into the supersonic portion of its flight envelope.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/x59-first-supersonic-ata-02.png"
-    },
-    {
         "date": "2026-06-10",
         "title": "Artemis III Crew Announced",
         "description": "NASA announced the Artemis III crew on Tuesday, June 9, 2026. NASA astronaut Andre Douglas, mission specialist; ESA (European Space Agency) astronaut Luca Parmitano, pilot; NASA astronaut Randy Bresnik, commander; and NASA astronaut Frank Rubio, mission specialist, will demonstrate the Orion spacecraft\u2019s rendezvous and docking capabilities with test versions from one, or both, American commercial human landing systems in development by Blue Origin and SpaceX.",
@@ -178,5 +172,11 @@
         "title": "Artemis II Crew and Apollo 14 Moon Tree",
         "description": "The Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA\u2019s Johnson Space Center. This tree is a second-generation Apollo Moon tree of the loblolly pine species.",
         "link": "https://www.nasa.gov/image-detail/jsc2026e396761/"
+    },
+    {
+        "date": "2026-07-09",
+        "title": "Hubble Captures Star-Studded Cluster",
+        "description": "This image from NASA\u2019s Hubble Space Telescope shows Messier 3, a densely packed cluster of stars whose origins may be a merger between globular clusters in the early universe.",
+        "link": "https://www.nasa.gov/image-detail/hubble-m3-july4-final/"
     }
 ]
