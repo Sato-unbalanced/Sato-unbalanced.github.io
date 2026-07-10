@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-10",
-        "title": "Artemis III Crew Announced",
-        "description": "NASA announced the Artemis III crew on Tuesday, June 9, 2026. NASA astronaut Andre Douglas, mission specialist; ESA (European Space Agency) astronaut Luca Parmitano, pilot; NASA astronaut Randy Bresnik, commander; and NASA astronaut Frank Rubio, mission specialist, will demonstrate the Orion spacecraft\u2019s rendezvous and docking capabilities with test versions from one, or both, American commercial human landing systems in development by Blue Origin and SpaceX.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/jsc2026e392659.jpg"
-    },
-    {
         "date": "2026-06-11",
         "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
         "description": "A train transports eight booster motor segments for the SLS (Space Launch System rocket) that will power NASA\u2019s Artemis III mission from Northrop Grumman\u2019s Railyard Shipping Facility in Corinne, Utah, June 2, to NASA\u2019s Kennedy Space Center in Florida.",
@@ -178,5 +172,11 @@
         "title": "Hubble Captures Star-Studded Cluster",
         "description": "This image from NASA\u2019s Hubble Space Telescope shows Messier 3, a densely packed cluster of stars whose origins may be a merger between globular clusters in the early universe.",
         "link": "https://www.nasa.gov/image-detail/hubble-m3-july4-final/"
+    },
+    {
+        "date": "2026-07-10",
+        "title": "Curiosity Sees Martian Sulfur Up Close",
+        "description": "These sulfur crystals were found inside a rock after NASA\u2019s Curiosity Mars rover happened to drive over it and crush it on May 30, 2024, the 4,200th Martian day, or sol, of the mission.",
+        "link": "https://www.nasa.gov/image-detail/nasa-iotd-curiosity-takes-a-close-look-at-martian-sulfur-crystals/"
     }
 ]
