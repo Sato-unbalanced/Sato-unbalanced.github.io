@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-11",
-        "title": "Train Ride to NASA Kennedy for Artemis III Booster Segments",
-        "description": "A train transports eight booster motor segments for the SLS (Space Launch System rocket) that will power NASA\u2019s Artemis III mission from Northrop Grumman\u2019s Railyard Shipping Facility in Corinne, Utah, June 2, to NASA\u2019s Kennedy Space Center in Florida.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/ng-06022026-artemis-iii-booster-segment-shipment-to-ksc-1-31large.jpg"
-    },
-    {
         "date": "2026-06-12",
         "title": "Soccer Meets Space Science",
         "description": "Researchers tested soccer balls aboard the International Space Station to study how internal mass affects motion and stability in microgravity.",
@@ -178,5 +172,11 @@
         "title": "Curiosity Sees Martian Sulfur Up Close",
         "description": "These sulfur crystals were found inside a rock after NASA\u2019s Curiosity Mars rover happened to drive over it and crush it on May 30, 2024, the 4,200th Martian day, or sol, of the mission.",
         "link": "https://www.nasa.gov/image-detail/nasa-iotd-curiosity-takes-a-close-look-at-martian-sulfur-crystals/"
+    },
+    {
+        "date": "2026-07-11",
+        "title": "Waxing Gibbous Moon",
+        "description": "The waxing gibbous Moon is pictured above Earth from the International Space Station as it orbited 264 miles above a partly cloudy Indian Ocean southeast of Madagascar.",
+        "link": "https://www.nasa.gov/image-detail/gmt177_ehdc1/"
     }
 ]
