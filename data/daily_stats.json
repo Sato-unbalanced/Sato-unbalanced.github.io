@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-14",
-        "title": "Black Eye Galaxy",
-        "description": "Easily identified by the spectacular band of dark dust that partially obscures its bright core, Messier 64, or the Black Eye Galaxy, is characterized by its bizarre internal motion.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/55158722798-9bb0f41f19-o.jpg"
-    },
-    {
         "date": "2026-06-15",
         "title": "Black Eye Galaxy",
         "description": "Easily identified by the spectacular band of dark dust that partially obscures its bright core, Messier 64, or the Black Eye Galaxy, is characterized by its bizarre internal motion.",
@@ -178,5 +172,11 @@
         "title": "Waxing Gibbous Moon",
         "description": "The waxing gibbous Moon is pictured above Earth from the International Space Station as it orbited 264 miles above a partly cloudy Indian Ocean southeast of Madagascar.",
         "link": "https://www.nasa.gov/image-detail/gmt177_ehdc1/"
+    },
+    {
+        "date": "2026-07-14",
+        "title": "NASA Astronaut Anil Menon",
+        "description": "NASA astronaut and Expedition 75 flight engineer Anil Menon poses in a spacesuit for a portrait at NASA\u2019s Johnson Space Center in Houston, Texas.",
+        "link": "https://www.nasa.gov/image-detail/jsc2026e000758/"
     }
 ]
