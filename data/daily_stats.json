@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-15",
-        "title": "Black Eye Galaxy",
-        "description": "Easily identified by the spectacular band of dark dust that partially obscures its bright core, Messier 64, or the Black Eye Galaxy, is characterized by its bizarre internal motion.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/55158722798-9bb0f41f19-o.jpg"
-    },
-    {
         "date": "2026-06-16",
         "title": "San Francisco\u2019s Patchwork Streets",
         "description": "A period of unsettled weather brought scattered showers and thunderstorms to California\u2019s Bay Area on May 27, 2026. That afternoon, a break in the clouds left downtown San Francisco and nearby communities beneath mostly cloud-free skies, allowing an astronaut aboard the International Space Station to take this photograph.",
@@ -178,5 +172,11 @@
         "title": "NASA Astronaut Anil Menon",
         "description": "NASA astronaut and Expedition 75 flight engineer Anil Menon poses in a spacesuit for a portrait at NASA\u2019s Johnson Space Center in Houston, Texas.",
         "link": "https://www.nasa.gov/image-detail/jsc2026e000758/"
+    },
+    {
+        "date": "2026-07-15",
+        "title": "Hubble Sees Crimson Cloud and Stars",
+        "description": "A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud.",
+        "link": "https://www.nasa.gov/image-detail/55382014220-1dd17df9c0-o/"
     }
 ]
