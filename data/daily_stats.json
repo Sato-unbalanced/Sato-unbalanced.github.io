@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-16",
-        "title": "San Francisco\u2019s Patchwork Streets",
-        "description": "A period of unsettled weather brought scattered showers and thunderstorms to California\u2019s Bay Area on May 27, 2026. That afternoon, a break in the clouds left downtown San Francisco and nearby communities beneath mostly cloud-free skies, allowing an astronaut aboard the International Space Station to take this photograph.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074-e-619284-lrg.jpg"
-    },
-    {
         "date": "2026-06-17",
         "title": "Aurora Australis",
         "description": "The aurora australis arcs over Earth during an active solar event in this photograph taken at approximately 11:32 p.m. local time from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia on June 5.",
@@ -178,5 +172,11 @@
         "title": "Hubble Sees Crimson Cloud and Stars",
         "description": "A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud.",
         "link": "https://www.nasa.gov/image-detail/55382014220-1dd17df9c0-o/"
+    },
+    {
+        "date": "2026-07-16",
+        "title": "Anil Menon Launches to Space Station",
+        "description": "NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with Expedition 75 crewmembers NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at Site 31/6 at the Baikonur Cosmodrome in Kazakhstan.",
+        "link": "https://www.nasa.gov/image-detail/expedition-75-launch-3/"
     }
 ]
