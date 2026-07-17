@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-17",
-        "title": "Aurora Australis",
-        "description": "The aurora australis arcs over Earth during an active solar event in this photograph taken at approximately 11:32 p.m. local time from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia on June 5.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/iss074e0672727orig.jpg"
-    },
-    {
         "date": "2026-06-18",
         "title": "Hubble Sees Swarm of Galaxies",
         "description": "This NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
@@ -178,5 +172,11 @@
         "title": "Anil Menon Launches to Space Station",
         "description": "NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with Expedition 75 crewmembers NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at Site 31/6 at the Baikonur Cosmodrome in Kazakhstan.",
         "link": "https://www.nasa.gov/image-detail/expedition-75-launch-3/"
+    },
+    {
+        "date": "2026-07-17",
+        "title": "Young Galaxy Cluster",
+        "description": "In the Picture of the Month from the James Webb Space Telescope, we are taken on a visit to a building site of significant scale. The project is a galaxy cluster named MACS J0553.4-3342, located in the constellation Columba (the Dove).",
+        "link": "https://www.nasa.gov/image-detail/55380623885-a00df544bb-o/"
     }
 ]
