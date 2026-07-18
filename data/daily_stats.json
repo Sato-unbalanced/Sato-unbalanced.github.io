@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-18",
-        "title": "Hubble Sees Swarm of Galaxies",
-        "description": "This NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/macs0329-0211-sky-sreg-flat-final.jpg"
-    },
-    {
         "date": "2026-06-19",
         "title": "Stages of Star Formation",
         "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month shows the giant molecular cloud Orion A, an area of the sky replete with star-forming clouds.",
@@ -178,5 +172,11 @@
         "title": "Young Galaxy Cluster",
         "description": "In the Picture of the Month from the James Webb Space Telescope, we are taken on a visit to a building site of significant scale. The project is a galaxy cluster named MACS J0553.4-3342, located in the constellation Columba (the Dove).",
         "link": "https://www.nasa.gov/image-detail/55380623885-a00df544bb-o/"
+    },
+    {
+        "date": "2026-07-18",
+        "title": "NASA\u2019s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
+        "description": "Scientists using NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) directly measured the magnetic fields of PSR J1101\u22126101, a pulsar located within what is often referred to as the \u201cLighthouse\u201d Nebula, for the first time.",
+        "link": "https://www.nasa.gov/image-detail/lighthouse-lg/"
     }
 ]
