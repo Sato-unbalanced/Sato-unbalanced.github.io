@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-19",
-        "title": "Stages of Star Formation",
-        "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month shows the giant molecular cloud Orion A, an area of the sky replete with star-forming clouds.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/55323265139-3f76fbd65a-o.jpg"
-    },
-    {
         "date": "2026-06-20",
         "title": "Stages of Star Formation",
         "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month shows the giant molecular cloud Orion A, an area of the sky replete with star-forming clouds.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-07-18",
+        "title": "NASA\u2019s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
+        "description": "Scientists using NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) directly measured the magnetic fields of PSR J1101\u22126101, a pulsar located within what is often referred to as the \u201cLighthouse\u201d Nebula, for the first time.",
+        "link": "https://www.nasa.gov/image-detail/lighthouse-lg/"
+    },
+    {
+        "date": "2026-07-19",
         "title": "NASA\u2019s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
         "description": "Scientists using NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) directly measured the magnetic fields of PSR J1101\u22126101, a pulsar located within what is often referred to as the \u201cLighthouse\u201d Nebula, for the first time.",
         "link": "https://www.nasa.gov/image-detail/lighthouse-lg/"
