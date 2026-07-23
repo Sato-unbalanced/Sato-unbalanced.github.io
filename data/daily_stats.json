@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-23",
-        "title": "NASA\u2019s Chandra Finds Possible Supernova Remnant",
-        "description": "Using data from NASA\u2019s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy.",
-        "link": "https://www.nasa.gov/wp-content/uploads/2026/06/sgrc-lg.jpg"
-    },
-    {
         "date": "2026-06-24",
         "title": "Hanging in the Balance",
         "description": "The Moon\u2019s rocky, uneven, and otherworldly surface features are highlighted by the terminator \u2013 the difference between light and darkness.",
@@ -178,5 +172,11 @@
         "title": "Psyche Approaches Mars",
         "description": "This composite of images taken by NASA\u2019s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. Because Psyche approached Mars from a high phase angle, the planet appeared as a thin crescent in the days running up to the close approach, lit by sunlight reflecting off its surface.",
         "link": "https://www.nasa.gov/image-detail/pia26586/"
+    },
+    {
+        "date": "2026-07-23",
+        "title": "A New Look \u2013 and Sound \u2013 for Messier 94",
+        "description": "Messier 94 is a spiral galaxy with a bright inner ring around it, called a starburst ring, where new stars are forming.",
+        "link": "https://www.nasa.gov/image-detail/250th-ngc4736/"
     }
 ]
