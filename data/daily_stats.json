@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-24",
-        "title": "Hanging in the Balance",
-        "description": "The Moon\u2019s rocky, uneven, and otherworldly surface features are highlighted by the terminator \u2013 the difference between light and darkness.",
-        "link": "https://www.nasa.gov/image-detail/art002e024603/"
-    },
-    {
         "date": "2026-06-25",
         "title": "Roman Telescope Comes to Kennedy",
         "description": "NASA\u2019s Pegasus barge arrives at the Launch Complex 39 turn basin at the agency\u2019s Kennedy Space Center in Florida carrying NASA\u2019s Nancy Grace Roman Space Telescope on Sunday, June 21, 2026.",
@@ -178,5 +172,11 @@
         "title": "A New Look \u2013 and Sound \u2013 for Messier 94",
         "description": "Messier 94 is a spiral galaxy with a bright inner ring around it, called a starburst ring, where new stars are forming.",
         "link": "https://www.nasa.gov/image-detail/250th-ngc4736/"
+    },
+    {
+        "date": "2026-07-24",
+        "title": "Crews Move Artemis IV\u202fLiquid Hydrogen Tank",
+        "description": "Crews at\u202fNASA\u2019s Michoud Assembly Facility in New Orleans transport the 130-foot-tall liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site.",
+        "link": "https://www.nasa.gov/image-detail/crews-move-artemis-iv-liquid-hydrogen-tank-for-proof-testing/"
     }
 ]
