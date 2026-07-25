@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-25",
-        "title": "Roman Telescope Comes to Kennedy",
-        "description": "NASA\u2019s Pegasus barge arrives at the Launch Complex 39 turn basin at the agency\u2019s Kennedy Space Center in Florida carrying NASA\u2019s Nancy Grace Roman Space Telescope on Sunday, June 21, 2026.",
-        "link": "https://www.nasa.gov/image-detail/afs-8-101-1289/"
-    },
-    {
         "date": "2026-06-26",
         "title": "Millions of Stars in Cigar Galaxy",
         "description": "NASA\u2019s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy.",
@@ -178,5 +172,11 @@
         "title": "Crews Move Artemis IV\u202fLiquid Hydrogen Tank",
         "description": "Crews at\u202fNASA\u2019s Michoud Assembly Facility in New Orleans transport the 130-foot-tall liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site.",
         "link": "https://www.nasa.gov/image-detail/crews-move-artemis-iv-liquid-hydrogen-tank-for-proof-testing/"
+    },
+    {
+        "date": "2026-07-25",
+        "title": "New Crew Members Welcomed to International Space Station",
+        "description": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the International Space Station.",
+        "link": "https://www.nasa.gov/image-detail/iss074e0814792/"
     }
 ]
