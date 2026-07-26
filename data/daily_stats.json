@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-26",
-        "title": "Millions of Stars in Cigar Galaxy",
-        "description": "NASA\u2019s James Webb Space Telescope recently observed edge-on starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy.",
-        "link": "https://www.nasa.gov/image-detail/starburst-galaxy-m82-webb-and-hubble-image/"
-    },
-    {
         "date": "2026-06-27",
         "title": "Euclid Sees Heart of Milky Way",
         "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-07-25",
+        "title": "New Crew Members Welcomed to International Space Station",
+        "description": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the International Space Station.",
+        "link": "https://www.nasa.gov/image-detail/iss074e0814792/"
+    },
+    {
+        "date": "2026-07-26",
         "title": "New Crew Members Welcomed to International Space Station",
         "description": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the International Space Station.",
         "link": "https://www.nasa.gov/image-detail/iss074e0814792/"
