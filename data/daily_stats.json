@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-27",
-        "title": "Euclid Sees Heart of Milky Way",
-        "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
-        "link": "https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/"
-    },
-    {
         "date": "2026-06-28",
         "title": "Euclid Sees Heart of Milky Way",
         "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-07-26",
+        "title": "New Crew Members Welcomed to International Space Station",
+        "description": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the International Space Station.",
+        "link": "https://www.nasa.gov/image-detail/iss074e0814792/"
+    },
+    {
+        "date": "2026-07-27",
         "title": "New Crew Members Welcomed to International Space Station",
         "description": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the International Space Station.",
         "link": "https://www.nasa.gov/image-detail/iss074e0814792/"
