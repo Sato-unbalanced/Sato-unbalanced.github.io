@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-28",
-        "title": "Euclid Sees Heart of Milky Way",
-        "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
-        "link": "https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/"
-    },
-    {
         "date": "2026-06-29",
         "title": "Euclid Sees Heart of Milky Way",
         "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
@@ -178,5 +172,11 @@
         "title": "New Crew Members Welcomed to International Space Station",
         "description": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a portrait while holding a cake celebrating their recent arrival aboard the International Space Station.",
         "link": "https://www.nasa.gov/image-detail/iss074e0814792/"
+    },
+    {
+        "date": "2026-07-28",
+        "title": "NASA Astronaut Chris Williams Returns to Earth",
+        "description": "NASA astronaut Chris Williams is seen outside the Soyuz MS-28 spacecraft after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in a remote area near the town of Zhezkazgan, Kazakhstan on Sunday, July 26, 2026. The trio returned to Earth after logging 241 days in space as a members of Expeditions 73 and 74 aboard the International Space Station.",
+        "link": "https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/"
     }
 ]
