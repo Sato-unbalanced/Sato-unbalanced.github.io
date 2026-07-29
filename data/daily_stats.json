@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-06-29",
-        "title": "Euclid Sees Heart of Milky Way",
-        "description": "This image by ESA\u2019s (European Space Agency) Euclid (with color added using ground-based images) provides an earlier snapshot of a region of our galaxy that NASA\u2019s Nancy Grace Roman Space Telescope will repeatedly observe during the upcoming years.",
-        "link": "https://www.nasa.gov/image-detail/euclid-s-view-of-our-galaxy-s-bulge/"
-    },
-    {
         "date": "2026-06-30",
         "title": "NASA Astronaut Chris Williams Preps for Spacewalk",
         "description": "Flight engineer Sophie Adenot of ESA (European Space Agency) assists flight engineer Chris Williams of NASA as he tries on his spacesuit, testing its comfort and mobility as well as its communications and life support systems inside the International Space Station\u2019s Quest airlock.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-07-28",
+        "title": "NASA Astronaut Chris Williams Returns to Earth",
+        "description": "NASA astronaut Chris Williams is seen outside the Soyuz MS-28 spacecraft after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in a remote area near the town of Zhezkazgan, Kazakhstan on Sunday, July 26, 2026. The trio returned to Earth after logging 241 days in space as a members of Expeditions 73 and 74 aboard the International Space Station.",
+        "link": "https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/"
+    },
+    {
+        "date": "2026-07-29",
         "title": "NASA Astronaut Chris Williams Returns to Earth",
         "description": "NASA astronaut Chris Williams is seen outside the Soyuz MS-28 spacecraft after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in a remote area near the town of Zhezkazgan, Kazakhstan on Sunday, July 26, 2026. The trio returned to Earth after logging 241 days in space as a members of Expeditions 73 and 74 aboard the International Space Station.",
         "link": "https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/"
