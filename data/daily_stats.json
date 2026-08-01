@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-02",
-        "title": "LINK Spacecraft Set for Mission to Boost NASA\u2019s Swift Observatory",
-        "description": "A Katalyst engineer runs tests on LINK while the satellite is inside the Pegasus XL rocket attached to the Stargazer aircraft at NASA\u2019s Wallops Flight Facility on the evening of Tuesday, June 16, 2026.",
-        "link": "https://www.nasa.gov/image-detail/stargazer-aircraft-with-link-spacecraft-at-nasa-wallops/"
-    },
-    {
         "date": "2026-07-03",
         "title": "Good Morning, Earth!",
         "description": "A bright orange sunburst illuminates Earth\u2019s atmosphere during an orbital sunrise in this photograph from the International Space Station as it orbited 264 miles above the Caucasus Mountains.",
@@ -178,5 +172,11 @@
         "title": "Starburst Galaxy Centaurus A",
         "description": "NASA\u2019s James Webb Space Telescope\u2019s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system.",
         "link": "https://www.nasa.gov/image-detail/stsci-01kvt4gqmq5mxv6xdpfpzmxg65-30d932/"
+    },
+    {
+        "date": "2026-08-01",
+        "title": "NASA\u2019s Newest Wind Tunnel Opens at NASA Langley",
+        "description": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility at NASA\u2019s Langley Research Center in Hampton, Virginia, on Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles.",
+        "link": "https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/"
     }
 ]
