@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-06",
-        "title": "Good Morning, Earth!",
-        "description": "A bright orange sunburst illuminates Earth\u2019s atmosphere during an orbital sunrise in this photograph from the International Space Station as it orbited 264 miles above the Caucasus Mountains.",
-        "link": "https://www.nasa.gov/image-detail/iss074e0779393/"
-    },
-    {
         "date": "2026-07-07",
         "title": "NASA Takes Flight For America\u2019s 250th",
         "description": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C.",
@@ -178,5 +172,11 @@
         "title": "Guinea-Bissau Tidal Waters",
         "description": "Relatively low tidal waters expose sandflats and mudflats in the Bijag\u00f3s Archipelago of Guinea-Bissau in this image acquired on November 28, 2025, with the OLI (Operational Land Imager) on Landsat 8. These coastal landforms support an array of invertebrates, making the archipelago a popular stopover for migratory shorebirds.",
         "link": "https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/"
+    },
+    {
+        "date": "2026-08-05",
+        "title": "Roman Space Telescope Plaque Install",
+        "description": "Technicians inside the Payload Hazardous Servicing Facility at NASA\u2019s Kennedy Space Center complete installation of a commemorative plaque on the agency\u2019s Nancy Grace Roman Space Telescope, as photographed on Tuesday, July 28, 2026.",
+        "link": "https://www.nasa.gov/image-detail/afs-8-101-1303/"
     }
 ]
