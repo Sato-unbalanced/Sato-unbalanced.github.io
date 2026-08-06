@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-07",
-        "title": "NASA Takes Flight For America\u2019s 250th",
-        "description": "NASA Administrator Jared Isaacman leads a flyover featuring his personally owned F-5 Tiger during the Great American State Fair on July 4, 2026, on the National Mall in Washington, D.C.",
-        "link": "https://www.nasa.gov/image-detail/nasa-at-the-great-american-state-fair/"
-    },
-    {
         "date": "2026-07-08",
         "title": "Artemis II Crew and Apollo 14 Moon Tree",
         "description": "The Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA\u2019s Johnson Space Center. This tree is a second-generation Apollo Moon tree of the loblolly pine species.",
@@ -178,5 +172,11 @@
         "title": "Roman Space Telescope Plaque Install",
         "description": "Technicians inside the Payload Hazardous Servicing Facility at NASA\u2019s Kennedy Space Center complete installation of a commemorative plaque on the agency\u2019s Nancy Grace Roman Space Telescope, as photographed on Tuesday, July 28, 2026.",
         "link": "https://www.nasa.gov/image-detail/afs-8-101-1303/"
+    },
+    {
+        "date": "2026-08-06",
+        "title": "Artemis III Orion Crew and Service Models Joined",
+        "description": "Engineers connect the Orion crew and service modules for the Artemis III mission inside the Neil A. Armstrong Operations and Checkout Building at NASA\u2019s Kennedy Space Center in Florida.",
+        "link": "https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2/"
     }
 ]
