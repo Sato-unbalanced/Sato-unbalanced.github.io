@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-08",
-        "title": "Artemis II Crew and Apollo 14 Moon Tree",
-        "description": "The Artemis II crew participates in the dedication of the Apollo 14 Moon tree at the Lunar Receiving Park at NASA\u2019s Johnson Space Center. This tree is a second-generation Apollo Moon tree of the loblolly pine species.",
-        "link": "https://www.nasa.gov/image-detail/jsc2026e396761/"
-    },
-    {
         "date": "2026-07-09",
         "title": "Hubble Captures Star-Studded Cluster",
         "description": "This image from NASA\u2019s Hubble Space Telescope shows Messier 3, a densely packed cluster of stars whose origins may be a merger between globular clusters in the early universe.",
@@ -178,5 +172,11 @@
         "title": "Artemis III Orion Crew and Service Models Joined",
         "description": "Engineers connect the Orion crew and service modules for the Artemis III mission inside the Neil A. Armstrong Operations and Checkout Building at NASA\u2019s Kennedy Space Center in Florida.",
         "link": "https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2/"
+    },
+    {
+        "date": "2026-08-07",
+        "title": "N/A",
+        "description": "N/A",
+        "link": "N/A"
     }
 ]
