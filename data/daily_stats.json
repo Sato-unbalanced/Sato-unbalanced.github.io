@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-09",
-        "title": "Hubble Captures Star-Studded Cluster",
-        "description": "This image from NASA\u2019s Hubble Space Telescope shows Messier 3, a densely packed cluster of stars whose origins may be a merger between globular clusters in the early universe.",
-        "link": "https://www.nasa.gov/image-detail/hubble-m3-july4-final/"
-    },
-    {
         "date": "2026-07-10",
         "title": "Curiosity Sees Martian Sulfur Up Close",
         "description": "These sulfur crystals were found inside a rock after NASA\u2019s Curiosity Mars rover happened to drive over it and crush it on May 30, 2024, the 4,200th Martian day, or sol, of the mission.",
@@ -178,5 +172,11 @@
         "title": "N/A",
         "description": "N/A",
         "link": "N/A"
+    },
+    {
+        "date": "2026-08-08",
+        "title": "NASA\u2019s IXPE Studies Magnetar",
+        "description": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
+        "link": "https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/"
     }
 ]
