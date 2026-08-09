@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-10",
-        "title": "Curiosity Sees Martian Sulfur Up Close",
-        "description": "These sulfur crystals were found inside a rock after NASA\u2019s Curiosity Mars rover happened to drive over it and crush it on May 30, 2024, the 4,200th Martian day, or sol, of the mission.",
-        "link": "https://www.nasa.gov/image-detail/nasa-iotd-curiosity-takes-a-close-look-at-martian-sulfur-crystals/"
-    },
-    {
         "date": "2026-07-11",
         "title": "Waxing Gibbous Moon",
         "description": "The waxing gibbous Moon is pictured above Earth from the International Space Station as it orbited 264 miles above a partly cloudy Indian Ocean southeast of Madagascar.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-08-08",
+        "title": "NASA\u2019s IXPE Studies Magnetar",
+        "description": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
+        "link": "https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/"
+    },
+    {
+        "date": "2026-08-09",
         "title": "NASA\u2019s IXPE Studies Magnetar",
         "description": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
         "link": "https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/"
