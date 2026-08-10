@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-11",
-        "title": "Waxing Gibbous Moon",
-        "description": "The waxing gibbous Moon is pictured above Earth from the International Space Station as it orbited 264 miles above a partly cloudy Indian Ocean southeast of Madagascar.",
-        "link": "https://www.nasa.gov/image-detail/gmt177_ehdc1/"
-    },
-    {
         "date": "2026-07-12",
         "title": "Waxing Gibbous Moon",
         "description": "The waxing gibbous Moon is pictured above Earth from the International Space Station as it orbited 264 miles above a partly cloudy Indian Ocean southeast of Madagascar.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-08-09",
+        "title": "NASA\u2019s IXPE Studies Magnetar",
+        "description": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
+        "link": "https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/"
+    },
+    {
+        "date": "2026-08-10",
         "title": "NASA\u2019s IXPE Studies Magnetar",
         "description": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
         "link": "https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/"
