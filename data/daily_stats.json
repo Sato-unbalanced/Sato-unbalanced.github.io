@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-13",
-        "title": "Waxing Gibbous Moon",
-        "description": "The waxing gibbous Moon is pictured above Earth from the International Space Station as it orbited 264 miles above a partly cloudy Indian Ocean southeast of Madagascar.",
-        "link": "https://www.nasa.gov/image-detail/gmt177_ehdc1/"
-    },
-    {
         "date": "2026-07-14",
         "title": "NASA Astronaut Anil Menon",
         "description": "NASA astronaut and Expedition 75 flight engineer Anil Menon poses in a spacesuit for a portrait at NASA\u2019s Johnson Space Center in Houston, Texas.",
@@ -178,5 +172,11 @@
         "title": "NASA Astronaut Jessica Meir Uses VR Goggles",
         "description": "NASA astronaut and Expedition 75 commander Jessica Meir wears a set of virtual reality goggles, also called the Nevada Screening Vision System, for a test that measures visual function using a series of vision screening apps testing visual acuity, contrast sensitivity, and more.",
         "link": "https://www.nasa.gov/image-detail/iss075e0000191/"
+    },
+    {
+        "date": "2026-08-12",
+        "title": "Lion Nebula Roars in Webb\u2019s Sights",
+        "description": "NASA\u2019s James Webb Space Telescope imaged the planetary nebula NGC 2392, the Lion Nebula, using the observatory\u2019s NIRCam and MIRI instruments. The central star\u2019s remains are responsible for the nebula\u2019s structure, including a lion face-shaped bubble of ionized gas and dust \u201cmane.\u201d",
+        "link": "https://www.nasa.gov/image-detail/stsci-01kx6d0xbhsyp7q1em5qtc43rp/"
     }
 ]
