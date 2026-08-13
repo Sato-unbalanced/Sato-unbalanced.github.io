@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-14",
-        "title": "NASA Astronaut Anil Menon",
-        "description": "NASA astronaut and Expedition 75 flight engineer Anil Menon poses in a spacesuit for a portrait at NASA\u2019s Johnson Space Center in Houston, Texas.",
-        "link": "https://www.nasa.gov/image-detail/jsc2026e000758/"
-    },
-    {
         "date": "2026-07-15",
         "title": "Hubble Sees Crimson Cloud and Stars",
         "description": "A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud.",
@@ -178,5 +172,11 @@
         "title": "Lion Nebula Roars in Webb\u2019s Sights",
         "description": "NASA\u2019s James Webb Space Telescope imaged the planetary nebula NGC 2392, the Lion Nebula, using the observatory\u2019s NIRCam and MIRI instruments. The central star\u2019s remains are responsible for the nebula\u2019s structure, including a lion face-shaped bubble of ionized gas and dust \u201cmane.\u201d",
         "link": "https://www.nasa.gov/image-detail/stsci-01kx6d0xbhsyp7q1em5qtc43rp/"
+    },
+    {
+        "date": "2026-08-13",
+        "title": "2026 Total Solar Eclipse in Spain",
+        "description": "A total solar eclipse is seen from San Mill\u00e1n de los Caballeros, Spain, Wednesday, Aug. 12, 2026.",
+        "link": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/"
     }
 ]
