@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-15",
-        "title": "Hubble Sees Crimson Cloud and Stars",
-        "description": "A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud.",
-        "link": "https://www.nasa.gov/image-detail/55382014220-1dd17df9c0-o/"
-    },
-    {
         "date": "2026-07-16",
         "title": "Anil Menon Launches to Space Station",
         "description": "NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with Expedition 75 crewmembers NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at Site 31/6 at the Baikonur Cosmodrome in Kazakhstan.",
@@ -178,5 +172,11 @@
         "title": "2026 Total Solar Eclipse in Spain",
         "description": "A total solar eclipse is seen from San Mill\u00e1n de los Caballeros, Spain, Wednesday, Aug. 12, 2026.",
         "link": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/"
+    },
+    {
+        "date": "2026-08-14",
+        "title": "Perseids Meteor Shower",
+        "description": "The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.",
+        "link": "https://www.nasa.gov/image-detail/perseidsorion-2/"
     }
 ]
