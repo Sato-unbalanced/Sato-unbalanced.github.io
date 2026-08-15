@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-16",
-        "title": "Anil Menon Launches to Space Station",
-        "description": "NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with Expedition 75 crewmembers NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at Site 31/6 at the Baikonur Cosmodrome in Kazakhstan.",
-        "link": "https://www.nasa.gov/image-detail/expedition-75-launch-3/"
-    },
-    {
         "date": "2026-07-17",
         "title": "Young Galaxy Cluster",
         "description": "In the Picture of the Month from the James Webb Space Telescope, we are taken on a visit to a building site of significant scale. The project is a galaxy cluster named MACS J0553.4-3342, located in the constellation Columba (the Dove).",
@@ -178,5 +172,11 @@
         "title": "Perseids Meteor Shower",
         "description": "The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.",
         "link": "https://www.nasa.gov/image-detail/perseidsorion-2/"
+    },
+    {
+        "date": "2026-08-15",
+        "title": "Total Solar Eclipse in Sunflower Field",
+        "description": "This composite image shows the progression of a total solar eclipse over San Mill\u00e1n de los Caballeros, Spain on, Wednesday, Aug. 12, 2026.",
+        "link": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/"
     }
 ]
