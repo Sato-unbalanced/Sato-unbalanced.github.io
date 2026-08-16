@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-17",
-        "title": "Young Galaxy Cluster",
-        "description": "In the Picture of the Month from the James Webb Space Telescope, we are taken on a visit to a building site of significant scale. The project is a galaxy cluster named MACS J0553.4-3342, located in the constellation Columba (the Dove).",
-        "link": "https://www.nasa.gov/image-detail/55380623885-a00df544bb-o/"
-    },
-    {
         "date": "2026-07-18",
         "title": "NASA\u2019s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
         "description": "Scientists using NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) directly measured the magnetic fields of PSR J1101\u22126101, a pulsar located within what is often referred to as the \u201cLighthouse\u201d Nebula, for the first time.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-08-15",
+        "title": "Total Solar Eclipse in Sunflower Field",
+        "description": "This composite image shows the progression of a total solar eclipse over San Mill\u00e1n de los Caballeros, Spain on, Wednesday, Aug. 12, 2026.",
+        "link": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/"
+    },
+    {
+        "date": "2026-08-16",
         "title": "Total Solar Eclipse in Sunflower Field",
         "description": "This composite image shows the progression of a total solar eclipse over San Mill\u00e1n de los Caballeros, Spain on, Wednesday, Aug. 12, 2026.",
         "link": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/"
