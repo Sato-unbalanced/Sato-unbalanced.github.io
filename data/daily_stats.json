@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-19",
-        "title": "NASA\u2019s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-        "description": "Scientists using NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) directly measured the magnetic fields of PSR J1101\u22126101, a pulsar located within what is often referred to as the \u201cLighthouse\u201d Nebula, for the first time.",
-        "link": "https://www.nasa.gov/image-detail/lighthouse-lg/"
-    },
-    {
         "date": "2026-07-20",
         "title": "NASA\u2019s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
         "description": "Scientists using NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) directly measured the magnetic fields of PSR J1101\u22126101, a pulsar located within what is often referred to as the \u201cLighthouse\u201d Nebula, for the first time.",
@@ -178,5 +172,11 @@
         "title": "Total Solar Eclipse in Sunflower Field",
         "description": "This composite image shows the progression of a total solar eclipse over San Mill\u00e1n de los Caballeros, Spain on, Wednesday, Aug. 12, 2026.",
         "link": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/"
+    },
+    {
+        "date": "2026-08-18",
+        "title": "Colorful Collage of Tarantula Nebula",
+        "description": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic \u201ccraft\u201d reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.",
+        "link": "https://www.nasa.gov/image-detail/30dor-crop/"
     }
 ]
