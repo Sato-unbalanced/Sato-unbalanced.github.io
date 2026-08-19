@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-20",
-        "title": "NASA\u2019s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-        "description": "Scientists using NASA\u2019s IXPE (Imaging X-ray Polarimetry Explorer) directly measured the magnetic fields of PSR J1101\u22126101, a pulsar located within what is often referred to as the \u201cLighthouse\u201d Nebula, for the first time.",
-        "link": "https://www.nasa.gov/image-detail/lighthouse-lg/"
-    },
-    {
         "date": "2026-07-21",
         "title": "Our First View of the Surface of Mars",
         "description": "On the morning of July 20, 1976, roughly 40 minutes after mission controllers received word that the Viking 1 lander had successfully touched down on the surface of Mars, this photo gave us our first view from the surface of another planet.",
@@ -178,5 +172,11 @@
         "title": "Colorful Collage of Tarantula Nebula",
         "description": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic \u201ccraft\u201d reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.",
         "link": "https://www.nasa.gov/image-detail/30dor-crop/"
+    },
+    {
+        "date": "2026-08-19",
+        "title": "NASA\u2019s B777 Gets New Coat of Paint",
+        "description": "NASA\u2019s Boeing 777 returns to the agency\u2019s Langley Research Center after receiving a new paint scheme.",
+        "link": "https://www.nasa.gov/image-detail/jsc2026e407303/"
     }
 ]
