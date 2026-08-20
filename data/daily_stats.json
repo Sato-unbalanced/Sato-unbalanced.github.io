@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-21",
-        "title": "Our First View of the Surface of Mars",
-        "description": "On the morning of July 20, 1976, roughly 40 minutes after mission controllers received word that the Viking 1 lander had successfully touched down on the surface of Mars, this photo gave us our first view from the surface of another planet.",
-        "link": "https://www.nasa.gov/image-detail/34280-mars-viking1-lander-1st-image-pia00381/"
-    },
-    {
         "date": "2026-07-22",
         "title": "Psyche Approaches Mars",
         "description": "This composite of images taken by NASA\u2019s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. Because Psyche approached Mars from a high phase angle, the planet appeared as a thin crescent in the days running up to the close approach, lit by sunlight reflecting off its surface.",
@@ -178,5 +172,11 @@
         "title": "NASA\u2019s B777 Gets New Coat of Paint",
         "description": "NASA\u2019s Boeing 777 returns to the agency\u2019s Langley Research Center after receiving a new paint scheme.",
         "link": "https://www.nasa.gov/image-detail/jsc2026e407303/"
+    },
+    {
+        "date": "2026-08-20",
+        "title": "Ancient Milky Way Merger",
+        "description": "About 12 billion years ago, a dwarf galaxy known as LKH collided with a young Milky Way and merged with it. This artist\u2019s concept portrays that collision. NASA\u2019s Hubble Space Telescope uncovered definitive evidence of this collision by studying globular star clusters.",
+        "link": "https://www.nasa.gov/image-detail/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764/"
     }
 ]
