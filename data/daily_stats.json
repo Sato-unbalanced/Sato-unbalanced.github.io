@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-22",
-        "title": "Psyche Approaches Mars",
-        "description": "This composite of images taken by NASA\u2019s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. Because Psyche approached Mars from a high phase angle, the planet appeared as a thin crescent in the days running up to the close approach, lit by sunlight reflecting off its surface.",
-        "link": "https://www.nasa.gov/image-detail/pia26586/"
-    },
-    {
         "date": "2026-07-23",
         "title": "A New Look \u2013 and Sound \u2013 for Messier 94",
         "description": "Messier 94 is a spiral galaxy with a bright inner ring around it, called a starburst ring, where new stars are forming.",
@@ -178,5 +172,11 @@
         "title": "Ancient Milky Way Merger",
         "description": "About 12 billion years ago, a dwarf galaxy known as LKH collided with a young Milky Way and merged with it. This artist\u2019s concept portrays that collision. NASA\u2019s Hubble Space Telescope uncovered definitive evidence of this collision by studying globular star clusters.",
         "link": "https://www.nasa.gov/image-detail/stsci-01kz4n4d8g9ak26cf28hd5nt5n-d2d764/"
+    },
+    {
+        "date": "2026-08-21",
+        "title": "Artemis Mission Patches",
+        "description": "A NASA jacket containing Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside Firing Room 1 of the Rocco A. Petrone Launch Control Center at NASA\u2019s Kennedy Space Center in Florida during a terminal countdown simulation for the Artemis III mission.",
+        "link": "https://www.nasa.gov/image-detail/afs-8-101-1304/"
     }
 ]
