@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-23",
-        "title": "A New Look \u2013 and Sound \u2013 for Messier 94",
-        "description": "Messier 94 is a spiral galaxy with a bright inner ring around it, called a starburst ring, where new stars are forming.",
-        "link": "https://www.nasa.gov/image-detail/250th-ngc4736/"
-    },
-    {
         "date": "2026-07-24",
         "title": "Crews Move Artemis IV\u202fLiquid Hydrogen Tank",
         "description": "Crews at\u202fNASA\u2019s Michoud Assembly Facility in New Orleans transport the 130-foot-tall liquid hydrogen tank out of a production cell inside the main factory building into a detached test building on a separate portion of the 829-acre site.",
@@ -178,5 +172,11 @@
         "title": "Artemis Mission Patches",
         "description": "A NASA jacket containing Artemis I and II mission patches, along with other NASA patches hangs on the back of a chair on Thursday, Aug. 6, 2026, inside Firing Room 1 of the Rocco A. Petrone Launch Control Center at NASA\u2019s Kennedy Space Center in Florida during a terminal countdown simulation for the Artemis III mission.",
         "link": "https://www.nasa.gov/image-detail/afs-8-101-1304/"
+    },
+    {
+        "date": "2026-08-22",
+        "title": "Webb Opens Treasure Chest",
+        "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina Nebula, which lies just 7500 light-years away in the constellation Carina (the Keel).",
+        "link": "https://www.nasa.gov/image-detail/webb-opens-a-treasure-chest-filled-with-stars/"
     }
 ]
