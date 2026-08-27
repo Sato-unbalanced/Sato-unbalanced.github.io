@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-28",
-        "title": "NASA Astronaut Chris Williams Returns to Earth",
-        "description": "NASA astronaut Chris Williams is seen outside the Soyuz MS-28 spacecraft after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in a remote area near the town of Zhezkazgan, Kazakhstan on Sunday, July 26, 2026. The trio returned to Earth after logging 241 days in space as a members of Expeditions 73 and 74 aboard the International Space Station.",
-        "link": "https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/"
-    },
-    {
         "date": "2026-07-29",
         "title": "NASA Astronaut Chris Williams Returns to Earth",
         "description": "NASA astronaut Chris Williams is seen outside the Soyuz MS-28 spacecraft after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in a remote area near the town of Zhezkazgan, Kazakhstan on Sunday, July 26, 2026. The trio returned to Earth after logging 241 days in space as a members of Expeditions 73 and 74 aboard the International Space Station.",
@@ -178,5 +172,11 @@
         "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
         "description": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six\u2011hour and 23\u2011minute spacewalk outside the International Space Station.",
         "link": "https://www.nasa.gov/image-detail/gmt230_ehdc1-2/"
+    },
+    {
+        "date": "2026-08-27",
+        "title": "Roman Space Telescope Travels to SpaceX Hangar",
+        "description": "NASA\u2019s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels  to the SpaceX hangar at Launch Complex 39A at NASA\u2019s Kennedy Space Center on Tuesday, Aug. 25, 2026.",
+        "link": "https://www.nasa.gov/image-detail/afs-8-101-1305/"
     }
 ]
