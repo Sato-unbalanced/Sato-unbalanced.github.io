@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-29",
-        "title": "NASA Astronaut Chris Williams Returns to Earth",
-        "description": "NASA astronaut Chris Williams is seen outside the Soyuz MS-28 spacecraft after he landed with Expedition 74 Roscosmos cosmonauts Sergey Kud-Sverchkov, and Sergei Mikaev in a remote area near the town of Zhezkazgan, Kazakhstan on Sunday, July 26, 2026. The trio returned to Earth after logging 241 days in space as a members of Expeditions 73 and 74 aboard the International Space Station.",
-        "link": "https://www.nasa.gov/image-detail/expedition-74-soyuz-landing/"
-    },
-    {
         "date": "2026-07-30",
         "title": "Understanding How Martian Auroras Are Made",
         "description": "This illustration depicts charged particles from a solar storm stripping away charged particles of Mars\u2019 atmosphere, one of the processes of Martian atmosphere loss studied by NASA\u2019s MAVEN mission.",
@@ -178,5 +172,11 @@
         "title": "Roman Space Telescope Travels to SpaceX Hangar",
         "description": "NASA\u2019s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels  to the SpaceX hangar at Launch Complex 39A at NASA\u2019s Kennedy Space Center on Tuesday, Aug. 25, 2026.",
         "link": "https://www.nasa.gov/image-detail/afs-8-101-1305/"
+    },
+    {
+        "date": "2026-08-28",
+        "title": "Civil Servants Sworn in at NASA Ames",
+        "description": "New civil servants and guests pose for a group photo with NASA and Center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221.",
+        "link": "https://www.nasa.gov/image-detail/nasa-civil-servant-swearing-in-ceremony/"
     }
 ]
