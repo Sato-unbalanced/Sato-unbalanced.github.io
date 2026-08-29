@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-07-30",
-        "title": "Understanding How Martian Auroras Are Made",
-        "description": "This illustration depicts charged particles from a solar storm stripping away charged particles of Mars\u2019 atmosphere, one of the processes of Martian atmosphere loss studied by NASA\u2019s MAVEN mission.",
-        "link": "https://www.nasa.gov/image-detail/pia22076-2/"
-    },
-    {
         "date": "2026-07-31",
         "title": "Starburst Galaxy Centaurus A",
         "description": "NASA\u2019s James Webb Space Telescope\u2019s Mid-Infrared Instrument (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and hidden activity that shape this unusual system.",
@@ -178,5 +172,11 @@
         "title": "Civil Servants Sworn in at NASA Ames",
         "description": "New civil servants and guests pose for a group photo with NASA and Center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221.",
         "link": "https://www.nasa.gov/image-detail/nasa-civil-servant-swearing-in-ceremony/"
+    },
+    {
+        "date": "2026-08-29",
+        "title": "NASA\u2019s Artemis II Crew Receives Congressional Space Medal of Honor",
+        "description": "President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA\u2019s Johnson Space Center in Houston.",
+        "link": "https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2/"
     }
 ]
