@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-03",
-        "title": "NASA\u2019s Newest Wind Tunnel Opens at NASA Langley",
-        "description": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility at NASA\u2019s Langley Research Center in Hampton, Virginia, on Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles.",
-        "link": "https://www.nasa.gov/image-detail/fdrf-ribbon-cutting-ceremony-at-nasa-langley/"
-    },
-    {
         "date": "2026-08-04",
         "title": "Guinea-Bissau Tidal Waters",
         "description": "Relatively low tidal waters expose sandflats and mudflats in the Bijag\u00f3s Archipelago of Guinea-Bissau in this image acquired on November 28, 2025, with the OLI (Operational Land Imager) on Landsat 8. These coastal landforms support an array of invertebrates, making the archipelago a popular stopover for migratory shorebirds.",
@@ -178,5 +172,11 @@
         "title": "NASA\u2019s Nancy Grace Roman Space Telescope Launches",
         "description": "A SpaceX Falcon Heavy rocket with NASA\u2019s Nancy Grace Roman Telescope on board is seen transiting the sun during launch from Launch Complex 39A, Sunday, Aug. 30, 2026, at NASA\u2019s Kennedy Space Center in Florida.",
         "link": "https://www.nasa.gov/image-detail/nancy-grace-roman-space-telescope-launch-2/"
+    },
+    {
+        "date": "2026-09-02",
+        "title": "Artemis III RS-25 Engine Processing: #3 Lift",
+        "description": "Technicians prepare to transfer the #2 RS-25 SLS (Space Launch System) rocket engine (front) to the work stand with the #3 engine (back) for integration with the Artemis III core stage rocket on Tuesday, Aug. 25, 2026, inside the Vehicle Assembly Building at NASA\u2019s Kennedy Space Center in Florida. During Artemis III, the four RS\u201125 engines will launch the Orion spacecraft and its crew of four into low Earth orbit, generating more than two million pounds of thrust at liftoff.",
+        "link": "https://www.nasa.gov/image-detail/amf-ksc-20260825-ph-rcr01_0045/"
     }
 ]
