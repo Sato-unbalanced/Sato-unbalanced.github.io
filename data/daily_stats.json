@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-04",
-        "title": "Guinea-Bissau Tidal Waters",
-        "description": "Relatively low tidal waters expose sandflats and mudflats in the Bijag\u00f3s Archipelago of Guinea-Bissau in this image acquired on November 28, 2025, with the OLI (Operational Land Imager) on Landsat 8. These coastal landforms support an array of invertebrates, making the archipelago a popular stopover for migratory shorebirds.",
-        "link": "https://www.nasa.gov/image-detail/bijagosarchipelago-oli-20251128-lrg/"
-    },
-    {
         "date": "2026-08-05",
         "title": "Roman Space Telescope Plaque Install",
         "description": "Technicians inside the Payload Hazardous Servicing Facility at NASA\u2019s Kennedy Space Center complete installation of a commemorative plaque on the agency\u2019s Nancy Grace Roman Space Telescope, as photographed on Tuesday, July 28, 2026.",
@@ -178,5 +172,11 @@
         "title": "Artemis III RS-25 Engine Processing: #3 Lift",
         "description": "Technicians prepare to transfer the #2 RS-25 SLS (Space Launch System) rocket engine (front) to the work stand with the #3 engine (back) for integration with the Artemis III core stage rocket on Tuesday, Aug. 25, 2026, inside the Vehicle Assembly Building at NASA\u2019s Kennedy Space Center in Florida. During Artemis III, the four RS\u201125 engines will launch the Orion spacecraft and its crew of four into low Earth orbit, generating more than two million pounds of thrust at liftoff.",
         "link": "https://www.nasa.gov/image-detail/amf-ksc-20260825-ph-rcr01_0045/"
+    },
+    {
+        "date": "2026-09-03",
+        "title": "August Lunar Eclipse Rises Over Louisiana",
+        "description": "A lunar eclipse is visible over southern Louisiana. The lunar eclipse was visible throughout much of North and South America and part of Europe and Africa between Aug. 27-28. The Full Moon slipped through Earth\u2019s shadow on Aug. 27, continuing into Aug. 28 for some parts of the world, resulting in the lunar eclipse.  At maximum eclipse, the Moon takes on a dramatic dark, ruddy or coppery tint along the covered edge. New Orleans is home to NASA\u2019s Michoud Assembly Facility, where stages for NASA\u2019s SLS (Space Launch System) rocket and structures for Orion spacecraft are produced for the Artemis missions.",
+        "link": "https://www.nasa.gov/image-detail/amf-maf_20260827_lunareclipse_01/"
     }
 ]
