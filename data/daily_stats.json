@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-06",
-        "title": "Artemis III Orion Crew and Service Models Joined",
-        "description": "Engineers connect the Orion crew and service modules for the Artemis III mission inside the Neil A. Armstrong Operations and Checkout Building at NASA\u2019s Kennedy Space Center in Florida.",
-        "link": "https://www.nasa.gov/image-detail/ksc-20260730-ph-as01-6583-2/"
-    },
-    {
         "date": "2026-08-07",
         "title": "N/A",
         "description": "N/A",
@@ -178,5 +172,11 @@
         "title": "Igniting Roman\u2019s Journey",
         "description": "Now on a three-month, million-mile journey to its final orbit, NASA\u2019s Nancy Grace Roman Space Telescope will soon reveal the universe\u2019s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency\u2019s Kennedy Space Center in Florida.",
         "link": "https://www.nasa.gov/image-detail/amf-nhq202608300037/"
+    },
+    {
+        "date": "2026-09-05",
+        "title": "Lunar Occultation of Venus",
+        "description": "On Wednesday, June 17, skywatchers across the United States\u2014and parts of Canada\u2014enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight.",
+        "link": "https://www.nasa.gov/image-detail/amf-nhq202606170001/"
     }
 ]
