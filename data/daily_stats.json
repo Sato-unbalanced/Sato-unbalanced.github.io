@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-09",
-        "title": "NASA\u2019s IXPE Studies Magnetar",
-        "description": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
-        "link": "https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/"
-    },
-    {
         "date": "2026-08-10",
         "title": "NASA\u2019s IXPE Studies Magnetar",
         "description": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-09-07",
+        "title": "Lunar Occultation of Venus",
+        "description": "On Wednesday, June 17, skywatchers across the United States\u2014and parts of Canada\u2014enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight.",
+        "link": "https://www.nasa.gov/image-detail/amf-nhq202606170001/"
+    },
+    {
+        "date": "2026-09-08",
         "title": "Lunar Occultation of Venus",
         "description": "On Wednesday, June 17, skywatchers across the United States\u2014and parts of Canada\u2014enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight.",
         "link": "https://www.nasa.gov/image-detail/amf-nhq202606170001/"
