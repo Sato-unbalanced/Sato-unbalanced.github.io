@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-10",
-        "title": "NASA\u2019s IXPE Studies Magnetar",
-        "description": "A first of its kind measurement of a magnetar may have captured empty space behaving in a way physicists have predicted for 90 years, but never directly observed. The results published Wednesday in Nature.",
-        "link": "https://www.nasa.gov/image-detail/ixpemagnetarartistsconcept-web/"
-    },
-    {
         "date": "2026-08-11",
         "title": "NASA Astronaut Jessica Meir Uses VR Goggles",
         "description": "NASA astronaut and Expedition 75 commander Jessica Meir wears a set of virtual reality goggles, also called the Nevada Screening Vision System, for a test that measures visual function using a series of vision screening apps testing visual acuity, contrast sensitivity, and more.",
@@ -178,5 +172,11 @@
         "title": "Lunar Occultation of Venus",
         "description": "On Wednesday, June 17, skywatchers across the United States\u2014and parts of Canada\u2014enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight.",
         "link": "https://www.nasa.gov/image-detail/amf-nhq202606170001/"
+    },
+    {
+        "date": "2026-09-09",
+        "title": "Superbubble in the Large Magellanic Cloud",
+        "description": "N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a \u201csuperbubble,\u201d visible in this Hubble Space Telescope image in the upper central region.",
+        "link": "https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/"
     }
 ]
