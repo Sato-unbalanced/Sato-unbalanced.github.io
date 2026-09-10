@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-11",
-        "title": "NASA Astronaut Jessica Meir Uses VR Goggles",
-        "description": "NASA astronaut and Expedition 75 commander Jessica Meir wears a set of virtual reality goggles, also called the Nevada Screening Vision System, for a test that measures visual function using a series of vision screening apps testing visual acuity, contrast sensitivity, and more.",
-        "link": "https://www.nasa.gov/image-detail/iss075e0000191/"
-    },
-    {
         "date": "2026-08-12",
         "title": "Lion Nebula Roars in Webb\u2019s Sights",
         "description": "NASA\u2019s James Webb Space Telescope imaged the planetary nebula NGC 2392, the Lion Nebula, using the observatory\u2019s NIRCam and MIRI instruments. The central star\u2019s remains are responsible for the nebula\u2019s structure, including a lion face-shaped bubble of ionized gas and dust \u201cmane.\u201d",
@@ -178,5 +172,11 @@
         "title": "Superbubble in the Large Magellanic Cloud",
         "description": "N44 is a complex nebula filled with glowing hydrogen gas, dark lanes of dust, massive stars, and many populations of stars of different ages. One of its most distinctive features, however, is the dark, starry gap called a \u201csuperbubble,\u201d visible in this Hubble Space Telescope image in the upper central region.",
         "link": "https://www.nasa.gov/image-detail/hubble-n44-wfc3-large/"
+    },
+    {
+        "date": "2026-09-10",
+        "title": "Artemis II Crew at NASA Marshall",
+        "description": "The crew of NASA\u2019s Artemis II mission visited NASA\u2019s Marshall Space Flight Center in Huntsville, Alabama on Sept. 1, 2026.",
+        "link": "https://www.nasa.gov/image-detail/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig/"
     }
 ]
