@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-13",
-        "title": "2026 Total Solar Eclipse in Spain",
-        "description": "A total solar eclipse is seen from San Mill\u00e1n de los Caballeros, Spain, Wednesday, Aug. 12, 2026.",
-        "link": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-2/"
-    },
-    {
         "date": "2026-08-14",
         "title": "Perseids Meteor Shower",
         "description": "The constellation Orion is framed by two Perseid meteors on Aug. 12, 2018, in Cedar Breaks National Monument, Utah.",
@@ -178,5 +172,11 @@
         "title": "Dust and Water in Sagittarius A*",
         "description": "Using the James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the center of our Milky Way galaxy.",
         "link": "https://www.nasa.gov/image-detail/55459350878-2e1468b664-o/"
+    },
+    {
+        "date": "2026-09-12",
+        "title": "NASA\u2019s Chandra Spots Galactic Gem",
+        "description": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA\u2019s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.",
+        "link": "https://www.nasa.gov/image-detail/galaxies-iizw096/"
     }
 ]
