@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-16",
-        "title": "Total Solar Eclipse in Sunflower Field",
-        "description": "This composite image shows the progression of a total solar eclipse over San Mill\u00e1n de los Caballeros, Spain on, Wednesday, Aug. 12, 2026.",
-        "link": "https://www.nasa.gov/image-detail/2026-total-solar-eclipse-3/"
-    },
-    {
         "date": "2026-08-17",
         "title": "Total Solar Eclipse in Sunflower Field",
         "description": "This composite image shows the progression of a total solar eclipse over San Mill\u00e1n de los Caballeros, Spain on, Wednesday, Aug. 12, 2026.",
@@ -178,5 +172,11 @@
         "title": "NASA\u2019s Chandra Spots Galactic Gem",
         "description": "Galaxies are like cosmic gems, each with characteristics including size and shape that make them distinct. A gallery from NASA\u2019s Chandra X-ray Observatory and other telescopes displays a collection of galactic images that showcase this variety.",
         "link": "https://www.nasa.gov/image-detail/galaxies-iizw096/"
+    },
+    {
+        "date": "2026-09-15",
+        "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+        "description": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania.",
+        "link": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-acrisure-stadium/"
     }
 ]
