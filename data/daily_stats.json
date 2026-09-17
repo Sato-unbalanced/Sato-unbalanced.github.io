@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-18",
-        "title": "Colorful Collage of Tarantula Nebula",
-        "description": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic \u201ccraft\u201d reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula.",
-        "link": "https://www.nasa.gov/image-detail/30dor-crop/"
-    },
-    {
         "date": "2026-08-19",
         "title": "NASA\u2019s B777 Gets New Coat of Paint",
         "description": "NASA\u2019s Boeing 777 returns to the agency\u2019s Langley Research Center after receiving a new paint scheme.",
@@ -178,5 +172,11 @@
         "title": "N/A",
         "description": "N/A",
         "link": "N/A"
+    },
+    {
+        "date": "2026-09-17",
+        "title": "Indonesia\u2019s Anak Krakatau",
+        "description": "Anak Krakatau erupts ash and volcanic gases in this image acquired with the OLI (Operational Land Imager) on Landsat 8 on Sept. 5, 2026.",
+        "link": "https://www.nasa.gov/image-detail/krakatau-oli-20260905-lrg/"
     }
 ]
