@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-22",
-        "title": "Webb Opens Treasure Chest",
-        "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina Nebula, which lies just 7500 light-years away in the constellation Carina (the Keel).",
-        "link": "https://www.nasa.gov/image-detail/webb-opens-a-treasure-chest-filled-with-stars/"
-    },
-    {
         "date": "2026-08-23",
         "title": "Webb Opens Treasure Chest",
         "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes us to a fantastical realm within our home galaxy, where piercing starlight and billowing winds sculpt dust clouds into inventive shapes. This scene is from the Carina Nebula, which lies just 7500 light-years away in the constellation Carina (the Keel).",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-09-20",
+        "title": "COSI Telescope Comes Together",
+        "description": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
+        "link": "https://www.nasa.gov/image-detail/cosi-2026july-01/"
+    },
+    {
+        "date": "2026-09-21",
         "title": "COSI Telescope Comes Together",
         "description": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
         "link": "https://www.nasa.gov/image-detail/cosi-2026july-01/"
