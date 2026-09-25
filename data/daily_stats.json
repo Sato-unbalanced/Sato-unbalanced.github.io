@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-26",
-        "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
-        "description": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six\u2011hour and 23\u2011minute spacewalk outside the International Space Station.",
-        "link": "https://www.nasa.gov/image-detail/gmt230_ehdc1-2/"
-    },
-    {
         "date": "2026-08-27",
         "title": "Roman Space Telescope Travels to SpaceX Hangar",
         "description": "NASA\u2019s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels  to the SpaceX hangar at Launch Complex 39A at NASA\u2019s Kennedy Space Center on Tuesday, Aug. 25, 2026.",
@@ -178,5 +172,11 @@
         "title": "NASA\u2019s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
         "description": "An image from NASA\u2019s Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.",
         "link": "https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/"
+    },
+    {
+        "date": "2026-09-25",
+        "title": "Practicing for Safe Landings on the Moon and Beyond",
+        "description": "An Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing \u2013 Integrated Capabilities Evolution (SPLICE) experiment near NASA\u2019s Armstrong Flight Research Center in Edwards, California, on Thursday, Aug. 27, 2026.",
+        "link": "https://www.nasa.gov/image-detail/nasa-navigation-experiment-shows-promise-for-landing-on-other-planets/"
     }
 ]
