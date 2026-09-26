@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-27",
-        "title": "Roman Space Telescope Travels to SpaceX Hangar",
-        "description": "NASA\u2019s Nancy Grace Roman Space Telescope, encapsulated in its payload fairing, travels  to the SpaceX hangar at Launch Complex 39A at NASA\u2019s Kennedy Space Center on Tuesday, Aug. 25, 2026.",
-        "link": "https://www.nasa.gov/image-detail/afs-8-101-1305/"
-    },
-    {
         "date": "2026-08-28",
         "title": "Civil Servants Sworn in at NASA Ames",
         "description": "New civil servants and guests pose for a group photo with NASA and Center leadership in the National Full-Scale Aerodynamics Complex (NFAC) 80-by-120-foot test section, N221.",
@@ -178,5 +172,11 @@
         "title": "Practicing for Safe Landings on the Moon and Beyond",
         "description": "An Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing \u2013 Integrated Capabilities Evolution (SPLICE) experiment near NASA\u2019s Armstrong Flight Research Center in Edwards, California, on Thursday, Aug. 27, 2026.",
         "link": "https://www.nasa.gov/image-detail/nasa-navigation-experiment-shows-promise-for-landing-on-other-planets/"
+    },
+    {
+        "date": "2026-09-26",
+        "title": "Hubble Spots Chaotic Secret in Galaxy",
+        "description": "Though the spiral galaxy in this ESA/Hubble Picture of the Month seems serene, it hides a chaotic secret.",
+        "link": "https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/"
     }
 ]
