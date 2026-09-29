@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-08-30",
-        "title": "NASA\u2019s Artemis II Crew Receives Congressional Space Medal of Honor",
-        "description": "President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA\u2019s Johnson Space Center in Houston.",
-        "link": "https://www.nasa.gov/image-detail/20260828-120552-jk1-3999-2/"
-    },
-    {
         "date": "2026-08-31",
         "title": "NASA\u2019s Artemis II Crew Receives Congressional Space Medal of Honor",
         "description": "President Donald J. Trump awarded NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman with the Congressional Space Medal of Honor on Aug. 28, 2026, at NASA\u2019s Johnson Space Center in Houston.",
@@ -178,5 +172,11 @@
         "title": "Hubble Spots Chaotic Secret in Galaxy",
         "description": "Though the spiral galaxy in this ESA/Hubble Picture of the Month seems serene, it hides a chaotic secret.",
         "link": "https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/"
+    },
+    {
+        "date": "2026-09-29",
+        "title": "Space Station View of Earth at Night",
+        "description": "This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. local time from the International Space Station as it orbited 259 miles above Earth.",
+        "link": "https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/"
     }
 ]
