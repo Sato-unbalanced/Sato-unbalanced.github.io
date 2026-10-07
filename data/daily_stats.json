@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-07",
-        "title": "Lunar Occultation of Venus",
-        "description": "On Wednesday, June 17, skywatchers across the United States\u2014and parts of Canada\u2014enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight.",
-        "link": "https://www.nasa.gov/image-detail/amf-nhq202606170001/"
-    },
-    {
         "date": "2026-09-08",
         "title": "Lunar Occultation of Venus",
         "description": "On Wednesday, June 17, skywatchers across the United States\u2014and parts of Canada\u2014enjoyed a rare event: a daytime lunar occultation of Venus. A lunar occultation occurs when the Moon moves directly in front of another celestial object from our viewpoint on Earth, briefly hiding it from sight.",
@@ -178,5 +172,11 @@
         "title": "NASA Astronaut Christina Koch at Eagles vs. Rams",
         "description": "NASA astronaut and mission specialist of the agency\u2019s Artemis II mission, Christina Koch, led the fans in singing the Eagles Fight Song from the field at an NFL game between the Philadelphia Eagles and the Los Angeles Rams at Lincoln Financial Field on Sunday, Oct. 4, 2026, in Philadelphia.",
         "link": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-lincoln-financial-field/"
+    },
+    {
+        "date": "2026-10-07",
+        "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
+        "description": "This artist\u2019s concept depicts a possible explanation for the unusual chemical abundances NASA\u2019s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.",
+        "link": "https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/"
     }
 ]
