@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-10",
-        "title": "Artemis II Crew at NASA Marshall",
-        "description": "The crew of NASA\u2019s Artemis II mission visited NASA\u2019s Marshall Space Flight Center in Huntsville, Alabama on Sept. 1, 2026.",
-        "link": "https://www.nasa.gov/image-detail/msfc-09012026-artemis-ii-crew-visit-at-msfc-1orig/"
-    },
-    {
         "date": "2026-09-11",
         "title": "Dust and Water in Sagittarius A*",
         "description": "Using the James Webb Space Telescope, an international team of astronomers have discovered that dust and water can form and survive surprisingly close to the supermassive black hole at the center of our Milky Way galaxy.",
@@ -178,5 +172,11 @@
         "title": "Crew-12 Returns to Earth",
         "description": "The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles, Calif., Thursday, Oct. 8, 2026.",
         "link": "https://www.nasa.gov/image-detail/nasas-spacex-crew-12-splashdown-2/"
+    },
+    {
+        "date": "2026-10-10",
+        "title": "Cosmic House of Mirrors",
+        "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they\u2019ve stepped into a house of mirrors.",
+        "link": "https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/"
     }
 ]
