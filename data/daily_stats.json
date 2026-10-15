@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-15",
-        "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
-        "description": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania.",
-        "link": "https://www.nasa.gov/image-detail/nasas-inspiration-tour-at-acrisure-stadium/"
-    },
-    {
         "date": "2026-09-16",
         "title": "N/A",
         "description": "N/A",
@@ -178,5 +172,11 @@
         "title": "Transporter-18 SmallSats Encapsulation",
         "description": "Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company\u2019s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.",
         "link": "https://www.nasa.gov/image-detail/afs-8-101-1315/"
+    },
+    {
+        "date": "2026-10-15",
+        "title": "NASA\u2019s SpaceX CRS-35 Launch Jellyfish",
+        "description": "The exhaust plumes of a SpaceX Falcon 9 rocket carrying the company\u2019s Dragon spacecraft are seen illuminated by sunlight against the predawn sky during the launch of NASA\u2019s SpaceX CRS-35 mission, Tuesday, Oct. 13, 2026, as seen from Cocoa Beach, Florida. The light makes the plumes look like a jellyfish in the sky.",
+        "link": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/"
     }
 ]
