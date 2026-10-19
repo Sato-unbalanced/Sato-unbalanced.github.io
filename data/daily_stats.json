@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-19",
-        "title": "COSI Telescope Comes Together",
-        "description": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
-        "link": "https://www.nasa.gov/image-detail/cosi-2026july-01/"
-    },
-    {
         "date": "2026-09-20",
         "title": "COSI Telescope Comes Together",
         "description": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-10-18",
+        "title": "Artemis II Heat Shield After Splashdown",
+        "description": "Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft\u2019s heat shield.",
+        "link": "https://www.nasa.gov/image-detail/afs-8-101-1320/"
+    },
+    {
+        "date": "2026-10-19",
         "title": "Artemis II Heat Shield After Splashdown",
         "description": "Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft\u2019s heat shield.",
         "link": "https://www.nasa.gov/image-detail/afs-8-101-1320/"
