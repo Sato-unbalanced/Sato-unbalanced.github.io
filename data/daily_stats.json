@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-20",
-        "title": "COSI Telescope Comes Together",
-        "description": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
-        "link": "https://www.nasa.gov/image-detail/cosi-2026july-01/"
-    },
-    {
         "date": "2026-09-21",
         "title": "COSI Telescope Comes Together",
         "description": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
@@ -178,5 +172,11 @@
         "title": "Artemis II Heat Shield After Splashdown",
         "description": "Shortly after Artemis II splashdown on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft\u2019s heat shield.",
         "link": "https://www.nasa.gov/image-detail/afs-8-101-1320/"
+    },
+    {
+        "date": "2026-10-20",
+        "title": "Martian Dawn",
+        "description": "The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA\u2019s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.",
+        "link": "https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/"
     }
 ]
