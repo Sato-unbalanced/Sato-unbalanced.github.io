@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-21",
-        "title": "COSI Telescope Comes Together",
-        "description": "UC Berkeley engineers and managers watch as the COSI (Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image.",
-        "link": "https://www.nasa.gov/image-detail/cosi-2026july-01/"
-    },
-    {
         "date": "2026-09-22",
         "title": "NASA Astronaut Reid Wiseman Attends Ravens vs. Saints Game",
         "description": "NASA astronaut and commander of the agency\u2019s Artemis II mission, Reid Wiseman, a Baltimore native, takes a selfie with fans at an NFL game between the New Orleans Saints and the Baltimore Ravens at M&T Bank Stadium, Sunday, Sept. 20, 2026, in Baltimore.",
@@ -178,5 +172,11 @@
         "title": "Martian Dawn",
         "description": "The captivating shapes of wind-carved crags called yardangs are revealed in this zoomed-in crop of a broader panorama captured by NASA\u2019s Curiosity Mars rover. Scientists are eager to learn more about how the yardang layer formed.",
         "link": "https://www.nasa.gov/image-detail/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs-2/"
+    },
+    {
+        "date": "2026-10-21",
+        "title": "Webb Captures Stellar Jets",
+        "description": "NASA\u2019s James Webb Space Telescope has revealed many protostars and stars within the glowing gases of NGC 7129. Hot, atomic hydrogen gas is shown here in the golden region, while cooler, molecular hydrogen gas, shocked by embedded protostars, is represented in red.",
+        "link": "https://www.nasa.gov/image-detail/55572978759-545472774e-o/"
     }
 ]
