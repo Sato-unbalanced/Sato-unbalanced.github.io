@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-23",
-        "title": "NASA\u2019s Chandra Finds Unusual Objects in Pinwheel Galaxy",
-        "description": "Using NASA\u2019s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before.",
-        "link": "https://www.nasa.gov/image-detail/m101-lg/"
-    },
-    {
         "date": "2026-09-24",
         "title": "NASA\u2019s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
         "description": "An image from NASA\u2019s Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.",
@@ -178,5 +172,11 @@
         "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
         "description": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module\u2019s Life Science Glovebox, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell\u2011ink mixture.",
         "link": "https://www.nasa.gov/image-detail/iss075e0190239/"
+    },
+    {
+        "date": "2026-10-23",
+        "title": "Spiral\u2019s Edge",
+        "description": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
+        "link": "https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/"
     }
 ]
