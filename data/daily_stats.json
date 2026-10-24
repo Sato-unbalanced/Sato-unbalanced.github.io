@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-24",
-        "title": "NASA\u2019s Hubble Telescope Reaches Milestone, Looks for Elusive Supernova",
-        "description": "An image from NASA\u2019s Hubble Space Telescope of galaxy cluster MACS J0417 is part of repeated observations to monitor for the reappearance of supernova Athena, which can help astronomers measure the expansion rate of the universe.",
-        "link": "https://www.nasa.gov/image-detail/stsci-h-p26023a-m-2000x1207/"
-    },
-    {
         "date": "2026-09-25",
         "title": "Practicing for Safe Landings on the Moon and Beyond",
         "description": "An Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing \u2013 Integrated Capabilities Evolution (SPLICE) experiment near NASA\u2019s Armstrong Flight Research Center in Edwards, California, on Thursday, Aug. 27, 2026.",
@@ -178,5 +172,11 @@
         "title": "Spiral\u2019s Edge",
         "description": "This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.",
         "link": "https://www.nasa.gov/image-detail/hubble-ngc1827-1-flat-final/"
+    },
+    {
+        "date": "2026-10-24",
+        "title": "RS-25 Engine Tests at NASA Stennis",
+        "description": "Teams at NASA\u2019s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026.",
+        "link": "https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/"
     }
 ]
