@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-25",
-        "title": "Practicing for Safe Landings on the Moon and Beyond",
-        "description": "An Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing \u2013 Integrated Capabilities Evolution (SPLICE) experiment near NASA\u2019s Armstrong Flight Research Center in Edwards, California, on Thursday, Aug. 27, 2026.",
-        "link": "https://www.nasa.gov/image-detail/nasa-navigation-experiment-shows-promise-for-landing-on-other-planets/"
-    },
-    {
         "date": "2026-09-26",
         "title": "Hubble Spots Chaotic Secret in Galaxy",
         "description": "Though the spiral galaxy in this ESA/Hubble Picture of the Month seems serene, it hides a chaotic secret.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-10-24",
+        "title": "RS-25 Engine Tests at NASA Stennis",
+        "description": "Teams at NASA\u2019s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026.",
+        "link": "https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/"
+    },
+    {
+        "date": "2026-10-25",
         "title": "RS-25 Engine Tests at NASA Stennis",
         "description": "Teams at NASA\u2019s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026.",
         "link": "https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/"
