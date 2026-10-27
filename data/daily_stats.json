@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-27",
-        "title": "Hubble Spots Chaotic Secret in Galaxy",
-        "description": "Though the spiral galaxy in this ESA/Hubble Picture of the Month seems serene, it hides a chaotic secret.",
-        "link": "https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/"
-    },
-    {
         "date": "2026-09-28",
         "title": "Hubble Spots Chaotic Secret in Galaxy",
         "description": "Though the spiral galaxy in this ESA/Hubble Picture of the Month seems serene, it hides a chaotic secret.",
@@ -178,5 +172,11 @@
         "title": "RS-25 Engine Tests at NASA Stennis",
         "description": "Teams at NASA\u2019s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026.",
         "link": "https://www.nasa.gov/image-detail/ssc-20261021-s00947horig/"
+    },
+    {
+        "date": "2026-10-27",
+        "title": "NASA\u2019s X-59 Aircraft and Test Pilot",
+        "description": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency\u2019s X-59 quiet supersonic research aircraft on Oct. 21, 2026.",
+        "link": "https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3/"
     }
 ]
