@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-28",
-        "title": "Hubble Spots Chaotic Secret in Galaxy",
-        "description": "Though the spiral galaxy in this ESA/Hubble Picture of the Month seems serene, it hides a chaotic secret.",
-        "link": "https://www.nasa.gov/image-detail/a-galaxy-spinning-out-of-sync/"
-    },
-    {
         "date": "2026-09-29",
         "title": "Space Station View of Earth at Night",
         "description": "This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. local time from the International Space Station as it orbited 259 miles above Earth.",
@@ -178,5 +172,11 @@
         "title": "NASA\u2019s X-59 Aircraft and Test Pilot",
         "description": "NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency\u2019s X-59 quiet supersonic research aircraft on Oct. 21, 2026.",
         "link": "https://www.nasa.gov/image-detail/mike-lippert-x-59-lbfd-flight-39-3/"
+    },
+    {
+        "date": "2026-10-28",
+        "title": "NASA\u2019s Neo Surveyor Sunshade",
+        "description": "The large sunshade of NASA\u2019s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.",
+        "link": "https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2/"
     }
 ]
