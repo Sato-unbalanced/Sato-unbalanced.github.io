@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-29",
-        "title": "Space Station View of Earth at Night",
-        "description": "This nighttime view of the United States, dotted with city lights looking toward New York City (center), was taken at approximately 3:40 a.m. local time from the International Space Station as it orbited 259 miles above Earth.",
-        "link": "https://www.nasa.gov/image-detail/gmt251_08_43_jessica-meir_northern-aurora-cupola-14mm/"
-    },
-    {
         "date": "2026-09-30",
         "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
         "description": "Ahead of launch of NASA\u2019s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.",
@@ -178,5 +172,11 @@
         "title": "NASA\u2019s Neo Surveyor Sunshade",
         "description": "The large sunshade of NASA\u2019s Near-Earth Object Surveyor mission is inspected by a technician at BAE Systems Space & Mission Systems in Boulder, Colorado, in late July.",
         "link": "https://www.nasa.gov/image-detail/1-pia26715-bae-sunshade-inspection-2/"
+    },
+    {
+        "date": "2026-10-29",
+        "title": "Webb Sees Turbulent Star Nursery",
+        "description": "In this Picture of the Month from the NASA/ESA James Webb Space Telescope, we visit a turbulent cauldron of star formation to see what is brewing inside dense clumps of gas.",
+        "link": "https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/"
     }
 ]
