@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-09-30",
-        "title": "Crew-13 Rocket and Spacecraft at Launch Pad",
-        "description": "Ahead of launch of NASA\u2019s SpaceX Crew-13 mission, a SpaceX Falcon 9 rocket, with the Dragon spacecraft atop, is vertical at the launch pad of Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida on Sunday, Sept. 27, 2026.",
-        "link": "https://www.nasa.gov/image-detail/afs-8-101-1312/"
-    },
-    {
         "date": "2026-10-01",
         "title": "Star Trails",
         "description": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.",
@@ -178,5 +172,11 @@
         "title": "Webb Sees Turbulent Star Nursery",
         "description": "In this Picture of the Month from the NASA/ESA James Webb Space Telescope, we visit a turbulent cauldron of star formation to see what is brewing inside dense clumps of gas.",
         "link": "https://www.nasa.gov/image-detail/stars-brewing-in-a-nebulous-cauldron/"
+    },
+    {
+        "date": "2026-10-30",
+        "title": "NASA\u2019s Hubble Marks Way for Roman Space Telescope",
+        "description": "A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.",
+        "link": "https://www.nasa.gov/image-detail/55606049603-e8822462fe-o/"
     }
 ]
