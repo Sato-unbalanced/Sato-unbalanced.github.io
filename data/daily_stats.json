@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-10-01",
-        "title": "Star Trails",
-        "description": "This long-duration image shows star trails above Earth and the blue lights of fishing boats and the yellow lights of Indonesian cities stretching below the International Space Station as it orbited 258 miles above the Banda Sea.",
-        "link": "https://www.nasa.gov/image-detail/iss075e0144232/"
-    },
-    {
         "date": "2026-10-02",
         "title": "NASA\u2019s SpaceX Crew-13 Launches",
         "description": "A SpaceX Falcon 9 rocket carrying the company\u2019s Dragon spacecraft is launched on NASA\u2019s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.",
@@ -178,5 +172,11 @@
         "title": "NASA\u2019s Hubble Marks Way for Roman Space Telescope",
         "description": "A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.",
         "link": "https://www.nasa.gov/image-detail/55606049603-e8822462fe-o/"
+    },
+    {
+        "date": "2026-10-31",
+        "title": "NASA\u2019s James Webb Space Telescope Captures Eerie Cat\u2019s Head",
+        "description": "NASA\u2019s James Webb Space Telescope\u2019s mid-infrared view reveals intricate structures within the Cat\u2019s Head Nebula, traced by the emission from warm dust and carbon-based molecules excited by starlight.",
+        "link": "https://www.nasa.gov/image-detail/full-res-for-display-6/"
     }
 ]
