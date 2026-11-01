@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-10-02",
-        "title": "NASA\u2019s SpaceX Crew-13 Launches",
-        "description": "A SpaceX Falcon 9 rocket carrying the company\u2019s Dragon spacecraft is launched on NASA\u2019s SpaceX Crew-13 mission to the International Space Station with NASA astronauts Jessica Watkins and Luke Delaney, CSA (Canadian Space Agency) astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov aboard, Thursday, Oct. 1, 2026, from Cape Canaveral Space Force Station in Florida.",
-        "link": "https://www.nasa.gov/image-detail/nasas-spacex-crew-13-launch-3/"
-    },
-    {
         "date": "2026-10-03",
         "title": "NASA\u2019s DAVINCI Probe Can Stand the Heat",
         "description": "An engineering model of NASA\u2019s DAVINCI (Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging) descent probe passed a key test that ran from Aug. 28 to Sept. 10, showing it can survive the extreme temperatures of Venus.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-10-31",
+        "title": "NASA\u2019s James Webb Space Telescope Captures Eerie Cat\u2019s Head",
+        "description": "NASA\u2019s James Webb Space Telescope\u2019s mid-infrared view reveals intricate structures within the Cat\u2019s Head Nebula, traced by the emission from warm dust and carbon-based molecules excited by starlight.",
+        "link": "https://www.nasa.gov/image-detail/full-res-for-display-6/"
+    },
+    {
+        "date": "2026-11-01",
         "title": "NASA\u2019s James Webb Space Telescope Captures Eerie Cat\u2019s Head",
         "description": "NASA\u2019s James Webb Space Telescope\u2019s mid-infrared view reveals intricate structures within the Cat\u2019s Head Nebula, traced by the emission from warm dust and carbon-based molecules excited by starlight.",
         "link": "https://www.nasa.gov/image-detail/full-res-for-display-6/"
