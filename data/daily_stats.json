@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-10-07",
-        "title": "Astronomers Solve Cosmic Cold Case with NASA Hubble Data",
-        "description": "This artist\u2019s concept depicts a possible explanation for the unusual chemical abundances NASA\u2019s Hubble Space Telescope detected in the HS 0209+0832 system: a second-generation planet orbiting the white dwarf star.",
-        "link": "https://www.nasa.gov/image-detail/stsci-01m3cbk3t6srkp4q7wv9cgfgw9/"
-    },
-    {
         "date": "2026-10-08",
         "title": "Artemis II Crew Moon Photo Annotations",
         "description": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member\u2019s tablet.",
@@ -178,5 +172,11 @@
         "title": "Hubble Reveals Cosmic Mystery",
         "description": "This is an image from NASA\u2019s Hubble Space Telescope of NGC 4449, one of the dwarf galaxies in the Galaxies Losing Oxygen via Winds (GLOW) study. Researchers found that dwarf galaxies can hold onto only a small fraction of the oxygen made by their stars.",
         "link": "https://www.nasa.gov/image-detail/full-res-for-display-1-3/"
+    },
+    {
+        "date": "2026-11-06",
+        "title": "Midwestern City Lights",
+        "description": "City lights from the midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise.",
+        "link": "https://www.nasa.gov/image-detail/iss075e0227352/"
     }
 ]
