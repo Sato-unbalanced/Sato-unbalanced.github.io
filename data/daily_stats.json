@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-10-08",
-        "title": "Artemis II Crew Moon Photo Annotations",
-        "description": "A visualization of a dark Moon eclipsing the Sun is marked with handwritten notes in this April 6, 2026, screenshot from an Artemis II crew member\u2019s tablet.",
-        "link": "https://www.nasa.gov/image-detail/fd07_impact-flashes/"
-    },
-    {
         "date": "2026-10-09",
         "title": "Crew-12 Returns to Earth",
         "description": "The SpaceX Crew Dragon Freedom spacecraft is seen as it lands with NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev aboard in the Pacific Ocean off the coast of Los Angeles, Calif., Thursday, Oct. 8, 2026.",
@@ -178,5 +172,11 @@
         "title": "Midwestern City Lights",
         "description": "City lights from the midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise.",
         "link": "https://www.nasa.gov/image-detail/iss075e0227352/"
+    },
+    {
+        "date": "2026-11-07",
+        "title": "M30\u2019s Sparkling Stars",
+        "description": "This NASA/ESA Hubble Space Telescope image features the globular star cluster called Messier 30 (M30), also called NGC 7099.",
+        "link": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/"
     }
 ]
