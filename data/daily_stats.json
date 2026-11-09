@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-10-10",
-        "title": "Cosmic House of Mirrors",
-        "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they\u2019ve stepped into a house of mirrors.",
-        "link": "https://www.nasa.gov/image-detail/galaxies-in-a-cosmic-house-of-mirrors/"
-    },
-    {
         "date": "2026-10-11",
         "title": "Cosmic House of Mirrors",
         "description": "This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features galaxies in incredible detail that have been warped and multiplied like they\u2019ve stepped into a house of mirrors.",
@@ -175,6 +169,12 @@
     },
     {
         "date": "2026-11-08",
+        "title": "M30\u2019s Sparkling Stars",
+        "description": "This NASA/ESA Hubble Space Telescope image features the globular star cluster called Messier 30 (M30), also called NGC 7099.",
+        "link": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/"
+    },
+    {
+        "date": "2026-11-09",
         "title": "M30\u2019s Sparkling Stars",
         "description": "This NASA/ESA Hubble Space Telescope image features the globular star cluster called Messier 30 (M30), also called NGC 7099.",
         "link": "https://www.nasa.gov/image-detail/hubble-m30-potm2610a/"
