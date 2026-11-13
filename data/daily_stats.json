@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-10-14",
-        "title": "Transporter-18 SmallSats Encapsulation",
-        "description": "Three NASA-supported small spacecraft, shown along with many commercial payloads, before being encapsulated in a SpaceX Falcon 9. The rocket launched the payloads into low-Earth orbit at 11:32 a.m. PDT Thursday, Oct. 1, 2026, as part of the company\u2019s Transporter-18 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California.",
-        "link": "https://www.nasa.gov/image-detail/afs-8-101-1315/"
-    },
-    {
         "date": "2026-10-15",
         "title": "NASA\u2019s SpaceX CRS-35 Launch Jellyfish",
         "description": "The exhaust plumes of a SpaceX Falcon 9 rocket carrying the company\u2019s Dragon spacecraft are seen illuminated by sunlight against the predawn sky during the launch of NASA\u2019s SpaceX CRS-35 mission, Tuesday, Oct. 13, 2026, as seen from Cocoa Beach, Florida. The light makes the plumes look like a jellyfish in the sky.",
@@ -178,5 +172,11 @@
         "title": "CHAPEA Crew Leaves a Mark",
         "description": "Photos of the CHAPEA Mission 2 crew are arranged around a boot print in the simulated Martian sand outside their habitat.",
         "link": "https://www.nasa.gov/image-detail/photos-from-chapea-mission-2-arranged-around-boot-print/"
+    },
+    {
+        "date": "2026-11-13",
+        "title": "Heart in the Sky at NASA Kennedy",
+        "description": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA\u2019s Vehicle Assembly Building during the agency\u2019s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA\u2019s Kennedy Space Center in Florida.",
+        "link": "https://www.nasa.gov/image-detail/55640210122-dae9d5e6b9-o/"
     }
 ]
