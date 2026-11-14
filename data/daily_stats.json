@@ -1,11 +1,5 @@
 [
     {
-        "date": "2026-10-15",
-        "title": "NASA\u2019s SpaceX CRS-35 Launch Jellyfish",
-        "description": "The exhaust plumes of a SpaceX Falcon 9 rocket carrying the company\u2019s Dragon spacecraft are seen illuminated by sunlight against the predawn sky during the launch of NASA\u2019s SpaceX CRS-35 mission, Tuesday, Oct. 13, 2026, as seen from Cocoa Beach, Florida. The light makes the plumes look like a jellyfish in the sky.",
-        "link": "https://www.nasa.gov/image-detail/nasas-spacex-crs-35-launch/"
-    },
-    {
         "date": "2026-10-16",
         "title": "Chandra Finds Possible Origin of \u2018Treble Clef\u2019 Waves",
         "description": "Astronomers have used NASA\u2019s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the \u201cTreble Clef\u201d because its distinct shape strongly resembles the musical symbol.",
@@ -178,5 +172,11 @@
         "title": "Heart in the Sky at NASA Kennedy",
         "description": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA\u2019s Vehicle Assembly Building during the agency\u2019s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA\u2019s Kennedy Space Center in Florida.",
         "link": "https://www.nasa.gov/image-detail/55640210122-dae9d5e6b9-o/"
+    },
+    {
+        "date": "2026-11-14",
+        "title": "Outbursts from a Massive Star",
+        "description": "Using Chandra, astronomers have discovered a previously hidden black hole or neutron star companion that is triggering repeated outbursts from a giant, unstable star.",
+        "link": "https://www.nasa.gov/image-detail/a-giant-star-in-a-distant-galaxy-has-been-mysteriously-erupting-for-at-least-15-years-new-data-from-nasas-chandra-explains-what-is-causing-these-huge-outbursts/"
     }
 ]
